@@ -230,7 +230,7 @@ For a moment Shaula's face had clouded at the look on his, but the instant she h
 
 "If that happened, I'd gently lick the hurt part! Lick it and lick it, day and night, and never let go!"
 
-"That wouldn't do a thing to bring the swelling down…"
+"That wouldn't do a thing to bring the swelling down," Subaru said, flat.
 
 Shaula pressed her case, both arms thrown up with vigor, and Subaru shrugged at the attitude and gave a feeble laugh — at which she raised her brows with a "So — so!"
 
@@ -402,7 +402,7 @@ Cutting into Regin's words, Subaru bowed his head deep and gave his thanks. Watc
 
 "I don't rightly follow the situation, but for now — please, come to the village with me. We'll talk it over properly at my clinic. You need rest."
 
-"You talk like a doctor."
+Subaru's mouth twitched. "You talk like a doctor."
 
 "My patients are earth dragons and livestock and the like, but I am a doctor. Have you forgotten that as well?"
 
@@ -1000,7 +1000,7 @@ Running a hand gently down over his left eye, Subaru muttered it as though mocki
 
 "Eye… ah, my left? It does look a touch hazy, I'll grant. It's no great matter. Though it does seem I knocked my head about a bit too much when all this shocking business began. As for how my hair went this way — well, I did nothing in particular. It just came to be like this on its own. Laughable, isn't it."
 
-"Ha, ha, ha — laughable indeed. Are you satisfied?"
+"Ha, ha, ha — laughable indeed." Otto's smile did not reach his eyes. "Are you satisfied?"
 
 "Far from it. There's a long road yet before I'm satisfied. So far off it that it's dispiriting."
 
@@ -1144,7 +1144,7 @@ On the heels of Subaru's forceful declaration of war, a voice cut off the Otto w
 
 "You really did take your time… Did you finish him off properly?"
 
-"I crushed his head too, I think. Apart from Master, human beings die when their heads get crushed, don't they?"
+Shaula cocked her head. "I crushed his head too, I think. Apart from Master, human beings die when their heads get crushed, don't they?"
 
 "I don't see why you leave me out. Even I'll die if my head gets crushed!"
 
@@ -1236,7 +1236,7 @@ Listening close to the reply, Reinhardt swiftly grasped that what he said was no
 
 "It is indeed. Remarkably frightening. It's because that man is Reid's descendant."
 
-"De-descendant."
+"De-descendant," Shaula echoed.
 
 "His children's children, and their children's children, and on down. That's the gist of it."
 
@@ -1322,7 +1322,7 @@ Heaving with sobs, Amue choked out her words in answer, and hesitated as Reinhar
 
 "I don't know who the woman was, but — the man was…"
 
-"The man was?"
+"The man was?" Reinhardt pressed, gently.
 
 "I hadn't realized it, but — it was as though he were talking to someone…"
 
