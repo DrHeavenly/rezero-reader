@@ -666,7 +666,7 @@ To Subaru, the breaking of the glass carried in it the sound of a trust breaking
 
 The man's voice shook with shock as he braced an elbow against the counter; but the arm would not hold him, and his upper body slid off the counter's edge, tipping his chair over as he crumpled to the floor of the shop. The glass and bottle came down with him, shattering against the boards and soaking his white uniform with the reek of liquor. His limbs would not answer, and his life ran slowly out of him; his lips faded to purple, his sight swam as he blinked and blinked and blinked, trying to beat back the death coming for him. From his seat at the table, Subaru watched the man's frantic scrabble after life. It was a refined face. The body was lithe, and both his carriage as he'd entered the shop and his choice of words in greeting his friend had brimmed with grace. The knightliest of knights, in truth.
 
-"I can see why they call you the Impeccable, Julius Euclius-san."
+"I can see why they call you the Impeccable, Julius Juukulius-san."
 
 "You… cur…"
 
@@ -892,21 +892,21 @@ Subaru stumbled, all but pitched forward onto his face — when a huge beast cau
 
 "You're… but Meili's already—dead…"
 
-It was one of the Witchbeasts Meili had commanded, carrying Subaru at a dead run through the burning Capital. The ferocious Guiltylawe sprinted on with Natsuki Subaru upon his back. He had no master now, and no obligation to obey the man — and still Guiltylawe bore Natsuki Subaru along, with all his heart.
+It was one of the Witchbeasts Meili had commanded, carrying Subaru at a dead run through the burning Capital. The ferocious Guiltylowe sprinted on with Natsuki Subaru upon his back. He had no master now, and no obligation to obey the man — and still Guiltylowe bore Natsuki Subaru along, with all his heart.
 
 "Please — find her. She has to be somewhere…"
 
-Subaru prayed, wishing for Guiltylawe to work some miracle. What was he to call this thing in his heart? Relief? Resignation? Bound about by feelings he could not name, Natsuki Subaru's mind swung between waking and the dark. But what truly brought him to his limit was what came next.
+Subaru prayed, wishing for Guiltylowe to work some miracle. What was he to call this thing in his heart? Relief? Resignation? Bound about by feelings he could not name, Natsuki Subaru's mind swung between waking and the dark. But what truly brought him to his limit was what came next.
 
 "—That's enough of that."
 
-The sharp lance of ice ran sprinting Guiltylawe through the flank. The beast shrieked, tripped over his own feet, and went crashing to the ground; caught in the fall, Subaru too was slammed against the stone of the road.
+The sharp lance of ice ran sprinting Guiltylowe through the flank. The beast shrieked, tripped over his own feet, and went crashing to the ground; caught in the fall, Subaru too was slammed against the stone of the road.
 
 "Ghau… what — was—"
 
-His sight blurred with pain as he forced his eyes open and looked round to see what had happened. Guiltylawe had hauled himself upright, a countless press of icicles buried in his left side, facing off against a figure wrapped in dim light who stood on the very edge of a charge. Guiltylawe lifted a savage paw and roared — his dignity, perhaps, as a Witchbeast, or his pride as the last animal that had obeyed young Meili to the end. His blow was more than strong enough to tear a human being to shreds, should it land. But before it could, a single sharp icicle came plunging down — into Guiltylawe's open maw, driving down his throat, then out through his chest and clean through his hindquarters, turning him too into a beast run through on a spit. Hard on the heels of that ruinous but not-quite-mortal blow, the air rang and crackled as white frost spread over the whole of Guiltylawe's body, and made of him a statue of ice.
+His sight blurred with pain as he forced his eyes open and looked round to see what had happened. Guiltylowe had hauled himself upright, a countless press of icicles buried in his left side, facing off against a figure wrapped in dim light who stood on the very edge of a charge. Guiltylowe lifted a savage paw and roared — his dignity, perhaps, as a Witchbeast, or his pride as the last animal that had obeyed young Meili to the end. His blow was more than strong enough to tear a human being to shreds, should it land. But before it could, a single sharp icicle came plunging down — into Guiltylowe's open maw, driving down his throat, then out through his chest and clean through his hindquarters, turning him too into a beast run through on a spit. Hard on the heels of that ruinous but not-quite-mortal blow, the air rang and crackled as white frost spread over the whole of Guiltylowe's body, and made of him a statue of ice.
 
-Having watched Guiltylawe's end, Subaru rose slowly to his feet. He could not lift his left arm — dislocated, perhaps, in the fall. It ought to have hurt enough to break him into tears; but his brain would not register it. For if Subaru began to bawl now, here, it would ruin everything.
+Having watched Guiltylowe's end, Subaru rose slowly to his feet. He could not lift his left arm — dislocated, perhaps, in the fall. It ought to have hurt enough to break him into tears; but his brain would not register it. For if Subaru began to bawl now, here, it would ruin everything.
 
 "—That's enough, villain."
 
