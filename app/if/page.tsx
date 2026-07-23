@@ -19,7 +19,7 @@ export default function IfLibraryPage() {
 
       {stories.length === 0 ? (
         <p className="rounded-lg border border-white/10 bg-white/[0.03] px-5 py-6 text-stone-400">
-          No IF stories found yet. Drop <code className="text-stone-300">if_&lt;story&gt;_&lt;variant&gt;_final.md</code>{" "}
+          No IF stories found yet. Drop <code className="text-stone-300">if_&lt;story&gt;_final.md</code>{" "}
           files anywhere in this repo and rebuild.
         </p>
       ) : (
@@ -31,9 +31,7 @@ export default function IfLibraryPage() {
                 className="flex items-center justify-between rounded-lg border border-white/10 bg-white/[0.03] px-5 py-4 transition hover:border-white/25 hover:bg-white/[0.06]"
               >
                 <span className="font-serif text-lg text-stone-100">{story.label}</span>
-                <span className="font-sans text-sm text-stone-500">
-                  {story.variants.length} {story.variants.length === 1 ? "version" : "versions"}
-                </span>
+                <span className="font-sans text-sm text-stone-500">Read →</span>
               </Link>
             </li>
           ))}

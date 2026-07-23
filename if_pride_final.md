@@ -1,6 +1,6 @@
 # Pride IF
 
-Heat — a violent heat low in his stomach — was the whole of his mind.
+Heat — a violent heat low in his stomach — took up the whole of his mind.
 
 "Ghhgg — hot!"
 
@@ -182,13 +182,13 @@ He caught his breath, strained his eyes, looked harder — and saw at last that 
 
 "Sir Reinhardt!"
 
-"Everyone, fall back. That woman is the Guthunter." His eyes lowered as he answered the trembling guardsman. "The dead already number far too many. I've no wish to see that count rise."
+"Everyone, fall back. That woman is the Bowel Hunter." His eyes lowered as he answered the trembling guardsman. "The dead already number far too many. I've no wish to see that count rise."
 
 It sounded as though he grieved for lives that had been butchered like so much vermin, and as though he burned at the murderer, Elsa, who had done it. Even Subaru, watching from a distance, could make out the shape of this young man Reinhardt. His reasoning was just, his ideals were just, the very cast of his mind was just — and so he was angry. He mourned the dead, he loathed the killing, he grieved the failure, and he wrote his remorse over with his conviction. That was the way of this man, this knight.
 
-"Reinhardt Van Astrea. Of the Sword Saint's line. Wonderful — excellent!"
+"Reinhardt van Astrea. Of the Sword Saint's line. Wonderful — excellent!"
 
-"I often feel crushed under the weight of what people expect." He returned her gaze levelly. "And you are the Guthunter?"
+"I often feel crushed under the weight of what people expect." He returned her gaze levelly. "And you are the Bowel Hunter?"
 
 "Yes, so I am." Elsa breathed the words out warm and slow. "Oh, goodness — whatever am I to do? I've my work to be getting on with, and here I've gone and come face to face with you."
 
@@ -214,7 +214,7 @@ The man held one out, and Reinhardt took it and tested the balance of it in his 
 
 Elsa let out a sigh at him, at the man who had readied not the sword at his waist but the borrowed one. Her displeasure lasted only an instant, though; she shifted at once, and, scenting the battle and the blood to come, licked her lips.
 
-"Elsa Granhiert. The Guthunter."
+"Elsa Granhiert. The Bowel Hunter."
 
 "Reinhardt van Astrea, of the Sword Saint's line."
 
@@ -336,11 +336,11 @@ A shrill voice, like a fowl throttled mid-cry, went grating through the room, ca
 
 "I had been *seeking you!* Why — why — why should you be here, indulging yourself in *sloth?* When we must follow the Witch's auspices, and answer her love with *diligenceeeeeeeee!*"
 
-"Lay off the false charges, Bete-san. I'm only doing what the gospel tells me. The gospel says to spend my time here."
+"Lay off the false charges, Pete-san. I'm only doing what the gospel tells me. The gospel says to spend my time here."
 
 "*What!* The gospel instructed you thus? At this hour, at this opening, in these very straits — what conceptions must the Witch hold, to bid a disciple as devout as you sit idle — the barest guess at it lies beyond *my faculties!*"
 
-It was not only the screaming that grated; the man's every movement was an offense in itself. A madman through and through, this Betelgeux Romanée-Conti. It took real effort not to sigh in his face. An unlovable lunatic he was — but, for Subaru's purposes, a serviceable one. Everyone in the fellowship Subaru had attached himself to was a portrait of self-serving ego, and it was an open question whether the rank-and-file disciples possessed any self-awareness at all. Subaru's own idle guess was that the dullness of their feeling might be the work of something laid over their minds, so that their allegiance would not leak out of them while they went about ordinary life. But guesswork could keep. What mattered was what Betelgeux — who stood in an authority quite unlike the rank and file — meant to get from this visit. Two months Subaru had belonged to the group now, and on the whole the living had been tolerable.
+It was not only the screaming that grated; the man's every movement was an offense in itself. A madman through and through, this Petelgeuse Romanée-Conti. It took real effort not to sigh in his face. An unlovable lunatic he was — but, for Subaru's purposes, a serviceable one. Everyone in the fellowship Subaru had attached himself to was a portrait of self-serving ego, and it was an open question whether the rank-and-file disciples possessed any self-awareness at all. Subaru's own idle guess was that the dullness of their feeling might be the work of something laid over their minds, so that their allegiance would not leak out of them while they went about ordinary life. But guesswork could keep. What mattered was what Petelgeuse — who stood in an authority quite unlike the rank and file — meant to get from this visit. Two months Subaru had belonged to the group now, and on the whole the living had been tolerable.
 
 Tolerable to live, that was; for the nerves and the sanity it was a nightmare. Steady dealings with madmen and religious fanatics were, for a man whose own humanity could not rise above the commonplace, simply agony. His lodging was a cave hidden in the mountains — surprisingly habitable, hospitable enough that he could carve out a corner and call it "his room," but the distance from any town, the hard floors, the cold walls, were things this thoroughly modern boy had to grit his teeth and bear. He was not, however, actor enough to keep his ties to the group hidden; so, as a compromise, he lived here, and made himself useful learning and hoarding away everything he could of this world.
 
@@ -352,7 +352,7 @@ Tolerable to live, that was; for the nerves and the sanity it was a nightmare. S
 
 "*Indeed!* The Selection! And yet — the trouble does not lie *there!* The Selection itself is of no account; it is the one who takes part in it! The silver-haired half-witch!"
 
-The better to instruct the ignorant Subaru, Betelgeux produced the official notice of the Selection — the very same sheet Subaru had pinned up about his room — and stabbed a finger at it. On the flyer, of course, was the face of the girl Subaru had all but bored holes through with staring; and Betelgeux's bony finger, just as one would expect, came to rest on her.
+The better to instruct the ignorant Subaru, Petelgeuse produced the official notice of the Selection — the very same sheet Subaru had pinned up about his room — and stabbed a finger at it. On the flyer, of course, was the face of the girl Subaru had all but bored holes through with staring; and Petelgeuse's bony finger, just as one would expect, came to rest on her.
 
 "*Behold!* This visage! This stock! Twin blasphemies against the Witch! This creature is not one we may suffer to overlook! The hour of the Trial is *upon us!*"
 
@@ -360,7 +360,7 @@ The better to instruct the ignorant Subaru, Betelgeux produced the official noti
 
 "*Precisely!*"
 
-Screeching it, Betelgeux slapped the flyer flat to the cave wall and drove his fist into the little printed description of Emilia, spraying blood across the stone. The self-savaging madman, drunk on his own pain and his own blood, had defiled her paper likeness.
+Screeching it, Petelgeuse slapped the flyer flat to the cave wall and drove his fist into the little printed description of Emilia, spraying blood across the stone. The self-savaging madman, drunk on his own pain and his own blood, had defiled her paper likeness.
 
 "If she coheres — take her! If she does not — cast her aside! Should she be proven a fitting vessel for the Witch, we shall gather her into *our fold!* The Trial must begin!"
 
@@ -368,15 +368,15 @@ Screeching it, Betelgeux slapped the flyer flat to the cave wall and drove his f
 
 "Yes — *just so!* I have reached out to others, though I doubt those faithless ones will answer. *Wrath* alone might hold some promise — yet she is far from this land at present. And so! We two shall set out alone!"
 
-Duty in his heart and a torrent of tears down his face, Betelgeux crammed the bloody fist into his mouth and sucked at the wounds; the corners of his mouth split where his teeth bore down, tearing at his own skin and flesh in a display gruesome past enduring. But Subaru ordered himself to weather the sight with iron will, and kept his cool.
+Duty in his heart and a torrent of tears down his face, Petelgeuse crammed the bloody fist into his mouth and sucked at the wounds; the corners of his mouth split where his teeth bore down, tearing at his own skin and flesh in a display gruesome past enduring. But Subaru ordered himself to weather the sight with iron will, and kept his cool.
 
-"Mind if I come with you, then? I don't know the particulars, Cardinal."
+"Mind if I come with you, then? I don't know the particulars, Sin Archbishop."
 
 "So you are *kindly accompanying!* Aaah — *aaAaAa!* How very, how very, how very, how very, veryveryveryveryveryvery… *joyous!*"
 
 "That's a bit much to work yourself into when all I said was that I'd tag along."
 
-The wry smile Subaru gave was an honest one. After nodding until his head all but came loose, Betelgeux snapped his legs back into a proper stance and spun about, his back to Subaru.
+The wry smile Subaru gave was an honest one. After nodding until his head all but came loose, Petelgeuse snapped his legs back into a proper stance and spun about, his back to Subaru.
 
 "We *depart at once!* I gave my Fingers their instructions along the road here… we shall rejoin with them, and make for the Mathers Domain. And there — we follow where the *gospel leads!*"
 
@@ -394,7 +394,7 @@ Subaru answered the unhelpful account with a knowing nod. He grasped none of the
 
 "So she gets erased. Does she, now."
 
-Subaru murmured it, trailing after Betelgeux, who had already begun to walk. It never reached the ears of the cackling madman, sealed off as he was in a world of his own — that faint, quiet murmur —
+Subaru murmured it, trailing after Petelgeuse, who had already begun to walk. It never reached the ears of the cackling madman, sealed off as he was in a world of his own — that faint, quiet murmur —
 
 "Oh. Does she, now."
 
@@ -408,9 +408,9 @@ He drove the sword into the thin body and gave it a twist. The tremor coming bac
 
 "Wh… y…?"
 
-"I thought you were one of the better ones, Bete-san. Out of a whole crowd of unlikable people."
+"I thought you were one of the better ones, Pete-san. Out of a whole crowd of unlikable people."
 
-The wide eyes looked down into Subaru's own, despairing. The surprise stayed fixed in them as Betelgeux tipped slowly backward and Subaru drew the sword out of his chest, the pull of it making him stagger a pace. He breathed in deep. At his feet lay Betelgeux Romanée-Conti in a spreading pool of blood — Betelgeux, dying, his heart ruined by Subaru's own hand.
+The wide eyes looked down into Subaru's own, despairing. The surprise stayed fixed in them as Petelgeuse tipped slowly backward and Subaru drew the sword out of his chest, the pull of it making him stagger a pace. He breathed in deep. At his feet lay Petelgeuse Romanée-Conti in a spreading pool of blood — Petelgeuse, dying, his heart ruined by Subaru's own hand.
 
 "It was real work, setting this whole thing up. For all the raving you do, you're a little too meticulous. Honestly — I got stuck more times than I can count."
 
@@ -418,27 +418,27 @@ The wide eyes looked down into Subaru's own, despairing. The surprise stayed fix
 
 "All the trial and error it took to get here. Planning the strategy was part of it, sure, but getting my trump card into place — that was touch and go the whole way. You've no idea how relieved I am right now."
 
-Betelgeux crawled, forcing strength into limbs that had none left, unable to rise, only creeping backward as though he might retreat out of death's reach. Subaru had nothing left to do. The man would not last long.
+Petelgeuse crawled, forcing strength into limbs that had none left, unable to rise, only creeping backward as though he might retreat out of death's reach. Subaru had nothing left to do. The man would not last long.
 
 "Couldn't even see the Unseen Hand, at first — I was in a real panic over what the hell was happening. Your Fingers gave me no end of grief, either. Right now… I feel like I've actually done something."
 
 "Ghh — auhh…"
 
-The blood running out of Betelgeux was the last of his life, and rather than slacken it only came the harder, while Subaru stood over him and laid the whole thing bare, the way a mastermind does. The black, invisible Unseen Hand. The Fingers — his confidants, his reserve stock of bodies. And the Possession that let him migrate into them and stretch out his life. With all three worked to their fullest, Betelgeux had been the very portrait of his beloved diligence in hounding Emilia toward her end. Bringing him down had been a back-breaking labor — better than four hundred rounds of trial and error, in fact, to reach this point.
+The blood running out of Petelgeuse was the last of his life, and rather than slacken it only came the harder, while Subaru stood over him and laid the whole thing bare, the way a mastermind does. The black, invisible Unseen Hand. The Fingers — his confidants, his reserve stock of bodies. And the Possession that let him migrate into them and stretch out his life. With all three worked to their fullest, Petelgeuse had been the very portrait of his beloved diligence in hounding Emilia toward her end. Bringing him down had been a back-breaking labor — better than four hundred rounds of trial and error, in fact, to reach this point.
 
 "Which makes you the person I've talked to most in all the world. I know how insanely lopsided that is — but I feel like you're something close to a friend. Watching you throw down every card you had to reach what you were after… I'll admit it moved me."
 
 "What are you saying — what are you saying, what are you saying, areyousaying, areyousaying—!"
 
-At the very last of the last, a livid strength flooded the moribund body. Pouring all of it into himself, Betelgeux hauled his dying frame upright. He spat blood — literally, it came welling out of his mouth — his bloodshot eyes flying wide as he wheeled on Subaru.
+At the very last of the last, a livid strength flooded the moribund body. Pouring all of it into himself, Petelgeuse hauled his dying frame upright. He spat blood — literally, it came welling out of his mouth — his bloodshot eyes flying wide as he wheeled on Subaru.
 
 "Betrayer! Traitor, who spurns the Witch's love! You cannot be — you cannot be — *forgiven!*"
 
-He flung out a blood-drowned hand. Not to call up the Unseen Hand; there was no use to an invisible arm once it could be seen. What Betelgeux was reaching for was the one condition under which an evil spirit — Betelgeux Romanée-Conti — could seize hold of another's body: he could possess those with the grounding of a spiritualist, and there was only one person present who answered to that —
+He flung out a blood-drowned hand. Not to call up the Unseen Hand; there was no use to an invisible arm once it could be seen. What Petelgeuse was reaching for was the one condition under which an evil spirit — Petelgeuse Romanée-Conti — could seize hold of another's body: he could possess those with the grounding of a spiritualist, and there was only one person present who answered to that —
 
 "Your body — is—!"
 
-*Mine.* So Betelgeux meant to finish; but Subaru only sighed. He walked over at his leisure and drove a kick into the dying face, the force of it knocking teeth loose, and Betelgeux reeled back, stunned. He had not been able to cross into the body he'd thought his for the taking. Subaru's answer came not in words but on his raised left hand — where, above his fingers, there floated a dim red light. A minor spirit: a creature that had entered into a contract with Natsuki Subaru, who had the grounding of a spiritualist, a small dear tool for lighting dim paths. The evil spirit Betelgeux could take only the bodies of spiritualists who had no such contract. How many deaths it had cost Subaru to work that one out, there was no saying.
+*Mine.* So Petelgeuse meant to finish; but Subaru only sighed. He walked over at his leisure and drove a kick into the dying face, the force of it knocking teeth loose, and Petelgeuse reeled back, stunned. He had not been able to cross into the body he'd thought his for the taking. Subaru's answer came not in words but on his raised left hand — where, above his fingers, there floated a dim red light. A minor spirit: a creature that had entered into a contract with Natsuki Subaru, who had the grounding of a spiritualist, a small dear tool for lighting dim paths. The evil spirit Petelgeuse could take only the bodies of spiritualists who had no such contract. How many deaths it had cost Subaru to work that one out, there was no saying.
 
 "Longest three days of my life, these. Though from where you're standing, I suppose we hardly knew each other at all…"
 
@@ -446,7 +446,7 @@ He flung out a blood-drowned hand. Not to call up the Unseen Hand; there was no 
 
 "You went after Emilia. —Regret it."
 
-Betelgeux spat out a shriek of pure hatred, and Subaru kicked him in the chest and brought the sword down across his face. The blade sank into the skull, wrecking the brain and the life inside it, and the grating death-wail cut off. Subaru leaned his weight down onto the sword where it stood in the man, and sighed. Very short in fact, and yet endless by his own reckoning, the fight with Betelgeux was over. Something like accomplishment and something like desolation came flooding into him together.
+Petelgeuse spat out a shriek of pure hatred, and Subaru kicked him in the chest and brought the sword down across his face. The blade sank into the skull, wrecking the brain and the life inside it, and the grating death-wail cut off. Subaru leaned his weight down onto the sword where it stood in the man, and sighed. Very short in fact, and yet endless by his own reckoning, the fight with Petelgeuse was over. Something like accomplishment and something like desolation came flooding into him together.
 
 "Mm-hm? Looks like you're finished too."
 
@@ -488,7 +488,7 @@ Meili tipped her head, feeling for what lay behind the word. But Subaru gave not
 
 "Ahh — geez, there you go treating me like a kid! I don't care about you anymore, mister. I'm done. I don't caaare!"
 
-She flung it at him in a temper, and the beast growled as though her mood had lit a fuse in it. Setting her pet on him. After all the pains he'd gone to at last to kill Betelgeux, he'd really rather this attempt didn't end in failure now. So Subaru set himself to patching up Meili's mood, and toiled away, for all he was worth, as her flatterer.
+She flung it at him in a temper, and the beast growled as though her mood had lit a fuse in it. Setting her pet on him. After all the pains he'd gone to at last to kill Petelgeuse, he'd really rather this attempt didn't end in failure now. So Subaru set himself to patching up Meili's mood, and toiled away, for all he was worth, as her flatterer.
 
 ***
 
@@ -500,13 +500,13 @@ Why it had no hold on Subaru alone was a mystery. But since he felt nothing of i
 
 But there had also been a change that was not, like that one, of concern to no one but Subaru. Namely —
 
-"The Royal Selection candidate Emilia — she who has subjugated the world's long-standing scourge, the Witch Cult's Cardinal of Sloth!"
+"The Royal Selection candidate Emilia — she who has subjugated the world's long-standing scourge, the Witch Cult's Sin Archbishop of Sloth!"
 
-The Kingdom rang with it; even foreign nations, it seemed, had heard of the feat. Even Subaru was taken aback at how effective a piece of propaganda it made. A victory drawn out of four hundred years of death, claimed by Natsuki Subaru — and handed over, whole and entire, to the shady clown of a man who backed Emilia. How the Margrave would take a proposal to make Emilia the achiever of it had honestly been a gamble on the order of subjugating Betelgeux itself, but —
+The Kingdom rang with it; even foreign nations, it seemed, had heard of the feat. Even Subaru was taken aback at how effective a piece of propaganda it made. A victory drawn out of four hundred years of death, claimed by Natsuki Subaru — and handed over, whole and entire, to the shady clown of a man who backed Emilia. How the Margrave would take a proposal to make Emilia the achiever of it had honestly been a gamble on the order of subjugating Petelgeuse itself, but —
 
 "He was so easy about it it turned my stomach."
 
-Margrave Roswaal L. Mathers had heard Subaru's proposal out, agreed to it without the least fuss, and announced at once that the felling of Betelgeux was Emilia's doing. Subaru felt there was something not quite right about the man — yet he had no quarrel with what Roswaal did. This world reviled Emilia for stupid, baseless reasons. And still Roswaal had declared himself her backer, taken her under his patronage, and pressed her forward into the Selection. Perhaps it was mere caprice; more likely he was angling to profit should the one-in-a-million chance come off and Emilia take the throne. The way he had swooped in, all but drooling, at Subaru's report on Betelgeux, made proof enough of that.
+Margrave Roswaal L. Mathers had heard Subaru's proposal out, agreed to it without the least fuss, and announced at once that the felling of Petelgeuse was Emilia's doing. Subaru felt there was something not quite right about the man — yet he had no quarrel with what Roswaal did. This world reviled Emilia for stupid, baseless reasons. And still Roswaal had declared himself her backer, taken her under his patronage, and pressed her forward into the Selection. Perhaps it was mere caprice; more likely he was angling to profit should the one-in-a-million chance come off and Emilia take the throne. The way he had swooped in, all but drooling, at Subaru's report on Petelgeuse, made proof enough of that.
 
 "No objection here. Do as you please, Mister Margrave. So long as you stand on Emilia's side, I'll throw myself down on your side too. Just as you're counting on — the ruler will be Emilia."
 
@@ -520,7 +520,7 @@ If he was to go on working from the shadows, unknown to Emilia, he had no choice
 
 "—"
 
-At the back of the cave stood a cell of iron bars. Chained within that cold space was someone in filthy clothes: a dainty figure in a knight's uniform, cat's ears rising from the head — a girl, or a young man got up as one, it seemed. While Subaru had been rushing about setting things in order after Betelgeux's death and the White Whale's rampage, he had come upon this spoil and carried the tool home. As yet, though, he had had precious few chances to witness the healing gifts of the fabled Blue. The man was not even mending his own hurts — only staring at the floor of the cell and weeping without end.
+At the back of the cave stood a cell of iron bars. Chained within that cold space was someone in filthy clothes: a dainty figure in a knight's uniform, cat's ears rising from the head — a girl, or a young man got up as one, it seemed. While Subaru had been rushing about setting things in order after Petelgeuse's death and the White Whale's rampage, he had come upon this spoil and carried the tool home. As yet, though, he had had precious few chances to witness the healing gifts of the fabled Blue. The man was not even mending his own hurts — only staring at the floor of the cell and weeping without end.
 
 "…Someone, tell me. Tell me. Why am I— where is His Highness? What was I for? There was someone. There had to have been someone. It all makes no sense if there wasn't. But…"
 
@@ -614,7 +614,7 @@ The man, Regulus, caught up at last with what was happening, as Subaru shrugged,
 
 "—Im… possible."
 
-Subaru dug at his ear, looking genuinely amazed as he delivered the news, and Regulus fell dumb. That Regulus should find it so wholly beyond belief was itself a thing Subaru could not fathom. Regulus had kept a great many women he styled "wives" in his mansion, forever singing the glory of married life while threatening to slaughter any of them who ever crossed him. Had that been the whole of it, it would only have looked like a monstrously cruel sort of harem — but the Cardinal's foulness did not end there. The villain had lodged his own heart inside his wives, and by that made his own body stopped in time, immortal, invincible. The one and only way to kill the Cardinal of Greed, Regulus Corneas, was to give him back his heart — which meant killing every one of the vessels he had chosen to house it, his wives, until it had nowhere left to hide. Even Subaru had agonized over the choice. But it was Regulus's imprisoned wives — no — the imprisoned women who had settled the matter for him.
+Subaru dug at his ear, looking genuinely amazed as he delivered the news, and Regulus fell dumb. That Regulus should find it so wholly beyond belief was itself a thing Subaru could not fathom. Regulus had kept a great many women he styled "wives" in his mansion, forever singing the glory of married life while threatening to slaughter any of them who ever crossed him. Had that been the whole of it, it would only have looked like a monstrously cruel sort of harem — but the Sin Archbishop's foulness did not end there. The villain had lodged his own heart inside his wives, and by that made his own body stopped in time, immortal, invincible. The one and only way to kill the Sin Archbishop of Greed, Regulus Corneas, was to give him back his heart — which meant killing every one of the vessels he had chosen to house it, his wives, until it had nowhere left to hide. Even Subaru had agonized over the choice. But it was Regulus's imprisoned wives — no — the imprisoned women who had settled the matter for him.
 
 "They were fine with dying, so long as it paid you back. Even I've never heard of a man's mouth being vile enough to drive people that far."
 
@@ -696,7 +696,7 @@ Subaru crouched and looked into Julius's face. The man was not even looking at h
 
 "A knight to the very last. I despise it."
 
-Subaru spat the words down at Julius's dead face, silent now forever. The sickness rising in his chest came, most likely, of the fact that he had had no need whatever to kill the Knight Impeccable. This was very nearly the first time Subaru had ordered a death without a reason for it. It had not pained him to see cultists or Cardinals die; but this killing came purely of Subaru's having chosen the easier of two prey to torment. Julius was less guarded than Anastasia Hoshin, who was forever ringed round with knights — and, more to the point, the Blue whom Subaru had coaxed into dependence could be used against him.
+Subaru spat the words down at Julius's dead face, silent now forever. The sickness rising in his chest came, most likely, of the fact that he had had no need whatever to kill the Knight Impeccable. This was very nearly the first time Subaru had ordered a death without a reason for it. It had not pained him to see cultists or Sin Archbishops die; but this killing came purely of Subaru's having chosen the easier of two prey to torment. Julius was less guarded than Anastasia Hoshin, who was forever ringed round with knights — and, more to the point, the Blue whom Subaru had coaxed into dependence could be used against him.
 
 "Did I do well, Subaru-sama?"
 
@@ -744,7 +744,7 @@ The man said it lightly, his eye going to Julius's sprawled corpse, and to the B
 
 ***
 
-Again and again Subaru ran his secret operations, whittling away at the candidates and at the Cardinals who stood in his path. A strange fellowship, a nest of dangerous people — and, more valuable than any of that, a place where no one troubled overmuch to interfere with anyone else. The Witch Cult had made a very convenient masquerade for Subaru. A masquerade he would, in the end, have to snuff out, yes; but to use them with that end already fixed in mind meant he could cast them off, when the time came, with a lack of guilt that was almost refreshing. He felt not the faintest kinship even for the Cardinals. He watched them, always, for openings; he turned over the ways of killing them, tested them, and where a plan felt promising, laid the groundwork for it. And even if he failed, Subaru had the power to reset the world and try again.
+Again and again Subaru ran his secret operations, whittling away at the candidates and at the Sin Archbishops who stood in his path. A strange fellowship, a nest of dangerous people — and, more valuable than any of that, a place where no one troubled overmuch to interfere with anyone else. The Witch Cult had made a very convenient masquerade for Subaru. A masquerade he would, in the end, have to snuff out, yes; but to use them with that end already fixed in mind meant he could cast them off, when the time came, with a lack of guilt that was almost refreshing. He felt not the faintest kinship even for the Sin Archbishops. He watched them, always, for openings; he turned over the ways of killing them, tested them, and where a plan felt promising, laid the groundwork for it. And even if he failed, Subaru had the power to reset the world and try again.
 
 Even Subaru, placed where he was, had come to form ties that might, perhaps, be called partnerships — though he knew there was not one cultist among them who ought to be trusted, and that he had no business drawing more people in.
 
@@ -804,7 +804,7 @@ Subaru shouted it with his arms flung wide, spit flying. The two of them faced e
 
 "—"
 
-Subaru's incoherent shouting stiffened Reinhardt's cheeks with confusion. He wouldn't understand. No one but Subaru ever would. Subaru had already worked through every conceivable form of trial and error to kill Reinhardt. He had studied Reinhardt van Astrea, researched him to exhaustion, tried out every idea he could raise, adjusted his plans, run down every avenue his mind could reach in the attempt to end him. And no matter what method Subaru used, Reinhardt overcame it — as though Natsuki Subaru's hideously feeble brain, as though his very existence, could not touch the man in the slightest. He had sacrificed Elsa, sacrificed Meili, sacrificed Blue, sacrificed the man who might have been his friend, sacrificed the clown who called himself his co-conspirator, sacrificed the Witch Cult, sacrificed the Cardinals, committed every crime and wrong and iniquity a person could conceive — and still could not kill Reinhardt. And so, having no way to cut Reinhardt's lifeline, Subaru had made his decision.
+Subaru's incoherent shouting stiffened Reinhardt's cheeks with confusion. He wouldn't understand. No one but Subaru ever would. Subaru had already worked through every conceivable form of trial and error to kill Reinhardt. He had studied Reinhardt van Astrea, researched him to exhaustion, tried out every idea he could raise, adjusted his plans, run down every avenue his mind could reach in the attempt to end him. And no matter what method Subaru used, Reinhardt overcame it — as though Natsuki Subaru's hideously feeble brain, as though his very existence, could not touch the man in the slightest. He had sacrificed Elsa, sacrificed Meili, sacrificed Blue, sacrificed the man who might have been his friend, sacrificed the clown who called himself his co-conspirator, sacrificed the Witch Cult, sacrificed the Sin Archbishops, committed every crime and wrong and iniquity a person could conceive — and still could not kill Reinhardt. And so, having no way to cut Reinhardt's lifeline, Subaru had made his decision.
 
 "I'm killing the *you* that is a knight. I'm dragging that showy name of yours, Sword Saint, down into the dirt — and stamping all over it, and spitting on it, and worse!"
 
@@ -892,21 +892,21 @@ Subaru stumbled, all but pitched forward onto his face — when a huge beast cau
 
 "You're… but Meili's already—dead…"
 
-It was one of the Witchbeasts Meili had commanded, carrying Subaru at a dead run through the burning Capital. The ferocious Guiltilaw sprinted on with Natsuki Subaru upon his back. He had no master now, and no obligation to obey the man — and still Guiltilaw bore Natsuki Subaru along, with all his heart.
+It was one of the Witchbeasts Meili had commanded, carrying Subaru at a dead run through the burning Capital. The ferocious Guiltylawe sprinted on with Natsuki Subaru upon his back. He had no master now, and no obligation to obey the man — and still Guiltylawe bore Natsuki Subaru along, with all his heart.
 
 "Please — find her. She has to be somewhere…"
 
-Subaru prayed, wishing for Guiltilaw to work some miracle. What was he to call this thing in his heart? Relief? Resignation? Bound about by feelings he could not name, Natsuki Subaru's mind swung between waking and the dark. But what truly brought him to his limit was what came next.
+Subaru prayed, wishing for Guiltylawe to work some miracle. What was he to call this thing in his heart? Relief? Resignation? Bound about by feelings he could not name, Natsuki Subaru's mind swung between waking and the dark. But what truly brought him to his limit was what came next.
 
 "—That's enough of that."
 
-The sharp lance of ice ran sprinting Guiltilaw through the flank. The beast shrieked, tripped over his own feet, and went crashing to the ground; caught in the fall, Subaru too was slammed against the stone of the road.
+The sharp lance of ice ran sprinting Guiltylawe through the flank. The beast shrieked, tripped over his own feet, and went crashing to the ground; caught in the fall, Subaru too was slammed against the stone of the road.
 
 "Ghau… what — was—"
 
-His sight blurred with pain as he forced his eyes open and looked round to see what had happened. Guiltilaw had hauled himself upright, a countless press of icicles buried in his left side, facing off against a figure wrapped in dim light who stood on the very edge of a charge. Guiltilaw lifted a savage paw and roared — his dignity, perhaps, as a Witchbeast, or his pride as the last animal that had obeyed young Meili to the end. His blow was more than strong enough to tear a human being to shreds, should it land. But before it could, a single sharp icicle came plunging down — into Guiltilaw's open maw, driving down his throat, then out through his chest and clean through his hindquarters, turning him too into a beast run through on a spit. Hard on the heels of that ruinous but not-quite-mortal blow, the air rang and crackled as white frost spread over the whole of Guiltilaw's body, and made of him a statue of ice.
+His sight blurred with pain as he forced his eyes open and looked round to see what had happened. Guiltylawe had hauled himself upright, a countless press of icicles buried in his left side, facing off against a figure wrapped in dim light who stood on the very edge of a charge. Guiltylawe lifted a savage paw and roared — his dignity, perhaps, as a Witchbeast, or his pride as the last animal that had obeyed young Meili to the end. His blow was more than strong enough to tear a human being to shreds, should it land. But before it could, a single sharp icicle came plunging down — into Guiltylawe's open maw, driving down his throat, then out through his chest and clean through his hindquarters, turning him too into a beast run through on a spit. Hard on the heels of that ruinous but not-quite-mortal blow, the air rang and crackled as white frost spread over the whole of Guiltylawe's body, and made of him a statue of ice.
 
-Having watched Guiltilaw's end, Subaru rose slowly to his feet. He could not lift his left arm — dislocated, perhaps, in the fall. It ought to have hurt enough to break him into tears; but his brain would not register it. For if Subaru began to bawl now, here, it would ruin everything.
+Having watched Guiltylawe's end, Subaru rose slowly to his feet. He could not lift his left arm — dislocated, perhaps, in the fall. It ought to have hurt enough to break him into tears; but his brain would not register it. For if Subaru began to bawl now, here, it would ruin everything.
 
 "—That's enough, villain."
 
@@ -984,9 +984,9 @@ Emilia asked it, her voice trembling, as Subaru came slowly toward her with his 
 
 Only to hear that faint calling of his name was enough to send a flood of feeling surging through him. Feeling so great that, by that alone, Subaru was wholly content to have come here. With that in his heart, and praying he would get to the end of the sentence without his voice breaking under it —
 
-"—Witch Cult Cardinal of Sin. Bishop of *Pride.* Natsuki Subaru!"
+"—Sin Archbishop of the Witch Cult, representing *Pride* — Natsuki Subaru!"
 
-"A Cardinal—!"
+"A Sin Archbishop—!"
 
 Giving the grandest introduction he could, Subaru drove all his strength into his legs and kicked off from the ground. Natsuki Subaru gathered every last scattered scrap of his strength into a single point of his body for the final sprint of his life. He had sacrificed a great many people, ill-used those who might have been his accomplices, taken his comfort in those with whom he might have shared a bond — and now, at long last, come to this darling girl.
 

@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getIfStories, getIfStory } from "@/lib/ifStories";
+import ChapterProse from "@/components/ChapterProse";
 
 export function generateStaticParams() {
   return getIfStories().map((s) => ({ story: s.story }));
@@ -14,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { story } = await params;
   const s = getIfStory(story);
-  return { title: s ? s.label : "IF Story" };
+  return { title: s ? s.heading : "IF Story" };
 }
 
 export default async function IfStoryPage({ params }: { params: Promise<{ story: string }> }) {
@@ -23,27 +24,27 @@ export default async function IfStoryPage({ params }: { params: Promise<{ story:
   if (!story) notFound();
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-      <Link href="/if" className="text-sm text-stone-500 hover:text-stone-300">
-        ← IF Stories
-      </Link>
-      <h1 className="mb-8 mt-4 font-serif text-3xl text-stone-100">{story.label}</h1>
+    <main className="mx-auto max-w-[70ch] px-6 py-12 sm:px-8">
+      <nav className="mb-12 flex items-center justify-between font-sans text-xs uppercase tracking-wide text-stone-500">
+        <Link href="/" className="hover:text-stone-300">
+          Library
+        </Link>
+        <Link href="/if" className="hover:text-stone-300">
+          IF Stories
+        </Link>
+      </nav>
 
-      <ul className="space-y-2">
-        {story.variants.map((v) => (
-          <li key={v.variant}>
-            <Link
-              href={`/if/${story.story}/${v.variant}`}
-              className="flex items-baseline gap-3 rounded-md px-3 py-2 transition hover:bg-white/[0.06]"
-            >
-              <span className="shrink-0 font-sans text-xs uppercase tracking-wide text-stone-500">
-                {v.variantLabel}
-              </span>
-              <span className="font-serif text-stone-200">{v.title}</span>
-            </Link>
-          </li>
-        ))}
-      </ul>
+      <h1 className="mb-12 text-center font-serif text-2xl text-stone-100 sm:text-3xl">
+        {story.heading}
+      </h1>
+
+      <ChapterProse markdown={story.body} />
+
+      <div className="mt-16 border-t border-white/10 pt-8 text-center font-sans text-sm">
+        <Link href="/if" className="text-stone-400 hover:text-stone-200">
+          ← All IF Stories
+        </Link>
+      </div>
     </main>
   );
 }
