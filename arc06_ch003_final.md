@@ -1,411 +1,403 @@
-# Chapter 3 — The Little Girl’s Cell
+# Chapter 3 — The Little Girl's Cell
 
-???: “How did your talk with Master go?”
+"So how did your talk with the master go?"
 
-Subaru: “You could say that it went the same as usual, and that he irritated me more than usual. You get the point.”
+"About the same as always," Subaru said, "except that he got on my nerves worse than usual. You can fill in the rest."
 
-???: “Well, I understand what you mean.”
+"Yes. I think I understand you well enough."
 
-Subaru’s group had left the parlor, and Frederica had been entrusted with guiding them towards the mansion’s east wing. This scary-faced woman with her long, beautiful blonde hair and courteously-worn maid outfit finally exchanged polite greetings with Anastasia and Julius as one of the mansion’s honest maids—and then spoke to Subaru, who was walking away discouraged.
+They had left the parlor behind, and the task of leading them to the mansion's east wing had fallen to Frederica. The scary-faced woman, with her long, beautiful blonde hair and her maid's uniform worn as neatly as a vow, had at last exchanged the proper courtesies with Anastasia and Julius, as befitted one of the mansion's honest servants—and then she turned to Subaru, who was trudging along at the back of the group looking thoroughly deflated.
 
-Frederica: “Was Garf useful in your journey and in the city? For him to get heavily injured to the point of not being able to come back, even when I gave him specific instructions… I am worried about him causing trouble for Emilia-sama and the others.”
+"Was Garf any use to you," she asked, "on the road and in the city? To think he let himself be hurt badly enough that he couldn't even come home, after I gave him such careful instructions… I do worry that he's been a burden to Emilia-sama and the others."
 
-Emilia: “No, don’t worry about it. Garfiel worked reaaally hard, after all. He’s resting along with Otto-kun right now, without causing any trouble… Well, I’m not so sure about the ‘without causing any trouble’ part. I hope that’s not what’s happening. But anyways, we did request that they rest.”
+"Oh, no, don't worry about that at all," Emilia said quickly. "Garfiel worked so, so hard for us. He's resting right now, together with Otto-kun, without causing anyone any trouble… well—I can't be completely sure about the 'no trouble' part. I really hope that isn't what's happening. But we did tell them both to rest, at least."
 
-Frederica: “My apologies for having my foolish younger brother cause you trouble.”
+"My apologies," Frederica said, inclining her head, "for letting my foolish little brother become such a nuisance to you."
 
-Emilia didn’t finish her follow-up much due to the fact she half-doubted it, while Frederica offered her apologies.
+Emilia let the reassurance trail off, since she half-doubted it herself, while Frederica went on quietly apologizing.
 
-Anyhow, Garfiel’s behavior worried Petra, Ram, Roswaal, and Frederica, but his mentality had changed in some way or another during the incident at Pristella—one could say that he had matured. No doubt about it. To begin with, for a fifteen-year-old boy, Garfiel’s strength was already outstanding. Even considering just how fierce the battles with the Bowel Hunter and the Eight Arms had been, he was still far from being able to boast himself as the strongest. But even then, he certainly possessed a level of strength that contended with not just the Emilia Camp’s, but the whole continent’s top ranks as well.
+In any case, Garfiel's conduct was a worry to Petra, to Ram, to Roswaal, and to Frederica—yet something in the boy had shifted during the affair at Pristella. He had grown up, there was no other word for it. To begin with, his strength was already remarkable for a boy of fifteen. Even measured against how savage the fights with the Bowel Hunter and the Eight Arms had been, he was still a long way from calling himself the strongest man alive; and yet he undeniably commanded a power that stood among the finest not merely in the Emilia Camp but across the whole continent.
 
-His biggest problem? Perhaps his immature mentality, still. Once that mental frailness was overcome however, he would go a level beyond. Well, there was still a ways to go. That was something that shouldn’t be rushed. Steadily and assuredly becoming stronger, stepping firmly on each step of the stairs before moving on to the next stage, was the appropriate way a fifteen-year-old should mature. And in addition—
+His one great weakness was, perhaps, still that unripe heart of his. Once he mastered that frailty, he would climb another rung entirely. But there was time yet, and it was not a thing to be rushed. To grow stronger steadily and surely—to set his foot firmly on each stair before reaching for the next—was the proper way for a boy of fifteen to come into his own. And there was, besides—
 
-Subaru: “There’s another reason for him not coming back right away this time.”
+"There's another reason he didn't come straight home this time," Subaru said.
 
-Emilia: “Is it Mimi?”
+"Is it Mimi?" Emilia asked.
 
-Subaru: “There’s that too, but.”
+"That's part of it, sure, but."
 
-Emilia cut into the conversation as if through sharp hearing, and he smiled wryly.
+She had cut into his thoughts as if she'd overheard them, and Subaru gave a wry little smile. Even Emilia—whose grasp of romance between a man and a woman was supposedly nonexistent—seemed, it turned out, to have a certain appetite for other people's love affairs. Garfiel and Mimi's, in particular, had her thoroughly intrigued.
 
-Even Emilia, someone whose knowledge of romantic relationships between men and women was supposedly lackluster, seemed to be curious about the love affairs of other people to some extent. She was very interested in Garfiel and Mimi’s relationship.
+And Garfiel, of course, ought to feel something for the girl who had thrown her own life between him and death, a girl who had never once been shy about announcing her feelings for him, before the battle or after it. Plainly put, there was no man alive who wouldn't be shaken to have such open affection thrust upon him by a girl he didn't dislike. Subaru himself was no exception; having been through it once, he was in no position to say a word about the phenomenon. Garfiel's own fondness for Ram was clear enough, so how the boy would answer Mimi remained to be seen—but that was a different matter from the one he had left behind in Pristella.
 
-Of course, Garfiel should feel something for Mimi, who had risked her own life to guard his, and she was not shy in proclaiming her affection for him both before and after the battle. Frankly speaking, there was no man out there who would not waver upon being struck with affection from a girl he didn’t hate. Subaru, too, was no exception. He was unable to say anything about that phenomenon, considering he was one that had experienced it before. He would have to wait and see how Garfiel would respond to Mimi’s feelings, considering the fact that his fondness for Ram was clear. But that was a concern different from the one Garfiel had left in the city of Pristella.
+"…Subaru-sama?" Frederica said. "Was there something you wished to ask me?"
 
-Frederica: “—Subaru-sama? Do you need to ask me something?”
+"No, nothing in particular. It really isn't my place to talk about this one."
 
-Subaru: “No, nothing in particular. It wouldn’t be right for me to talk about this matter.”
+He had been studying her profile with a weighty look, and she asked, gently, what he meant by it.
 
-He looked at Frederica’s profile with a profound look, and she asked what it meant.
+Out of regard for Garfiel's true feelings, Subaru sidestepped the question. Back in Pristella there was a family the boy had fretted over—people of golden hair and green eyes, the very coloring that would make anyone think at once of Frederica and Garfiel, brother and sister. What Garfiel was to that family was much what he was to Frederica herself. And surely the news of that bond was something he would want to carry home to his own kin, to Frederica and to Ryuzu, in his own words and no one else's.
 
-Taking Garfiel’s true feelings into account, Subaru dodged her question. In Pristella there was a family that Garfiel worried about—a family of golden hair and green eyes, traits that would remind anyone of Frederica and Garfiel, who were brother and sister. Garfiel’s relationship with that family was like his relationship with Frederica. It was certain that relationship was something Garfiel wished to report to his family, Frederica and Ryuzu, himself.
+"So I'll keep my mouth shut. Natsuki Subaru is going to let this one lie—in an *ultra-cool* way."
 
-Subaru: “So I won’t say anything. Natsuki Subaru will leave it at that in an *ultra cool* way.”
+"Oh, that reminds me," Emilia said brightly, "speaking of Garfiel—back in Pristella there were some children who were so, so fond of him, and they were—"
 
-Emilia: “Oh, speaking of Garfiel, at Pristella there were some children that were reaaally friendly with him, and they were…”
+"Emilia-tan, Emilia-tan, you're going to trample my whole monologue!"
 
-Subaru: “Emilia-tan, Emilia-tan, you’re gonna make my monologue go to waste!”
+His careful discretion was about to be flattened, so Subaru quite literally clapped a hand over Emilia's mouth to stop the words. The synergy between the two of them, left unchecked, would be a fearsome thing; he made a private note to sit her down later and explain the shape of the situation in full. Then he waved his free hand at Frederica, whose expression was growing more and more mystified, and put on a strained smile.
 
-His mediation was about to go to waste, so Subaru literally covered Emilia’s mouth to stop her from talking. The synergy would be scary if he were to leave it as it was, so he decided that he would make the time to properly explain the gist of the setting later to Emilia. Subaru waved his hand with a forced smile at Frederica, whose face became more and more puzzled.
+"Forgive me for interrupting while the two of you are working yourselves into such a cozy little glow," Frederica said, "but have you any notion of where it is we're going?"
 
-Frederica: “Sorry to interrupt you guys while you’re happily heating up your intimacy, but do you have any idea of where you guys are headed?”
+"Oh—that place. The Confinement Room. The one we were talking about before is down there."
 
-Subaru: “Oh, that place called the Confinement Room. That person we talked about before’s there.”
+"Hmm. That one," Julius murmured. "I do wonder whether the conversation will go the way we'd like."
 
-Julius: “Hmm, that person, huh—I wonder if the conversation will go well.”
+"It's never been tried before, so—no idea. Either way, I figure it's worth asking, just to be sure."
 
-Subaru: “It’s something that hasn’t been done before, so, dunno. Anyways, I’ll at least try asking to make sure.”
+Julius answered Subaru's account with a thoughtful silence, following at his back with a complicated look on his face. And in truth, Subaru was well aware of the many problems his proposal carried with it. But if it went well—if it went well, the danger of the road ahead would be cut down by no small margin.
 
-Julius responded to Subaru’s explanation by going into deep thought, his face complex as he followed the latter’s back.
+"And that girl is rather fond of Subaru," Emilia offered, "so it should be all right, shouldn't it?"
 
-In reality, Subaru was also aware of the many problems this proposal had in store. However, if all went well, then they would lower the risk of their journey by a considerable amount.
+"She's fonder of Garfiel than of me. Maybe it's the cat thing that does it for her… hm. We're here."
 
-Emilia: “Also that girl’s rather fond of Subaru, so shouldn’t it be fine?”
+He was still returning Emilia's rosy optimism with a strained smile when Frederica came to a halt. Subaru and Emilia stopped as well, for they had stepped into a part of the mansion whose whole look and air was distinctly foreign to the rest of it. The floor plan matched the old Roswaal mansion closely enough. It was the basement of the eastern wing, and that alone, that stood so starkly apart.
 
-Subaru: “That girl’s fonder of Garfiel than she is of me. Maybe she likes him more because he’s feline… Hm, we’ve arrived.”
+The central building held the main wing, where everything needed for daily life was gathered close together. The west wing served all-purpose ends—the maids' quarters, the guest rooms, and the like. And the east wing stood as a storehouse and a vault for the history and the legacy of the ancient Mathers bloodline, its books and its heirlooms. All of it save one place: the east wing's basement. For that cold room of stone beneath the noble's house, there had been a single clear purpose in the building of it.
 
-While he was replying to Emilia’s optimistic words with a strained smile, Frederica stopped walking. Subaru and Emilia too halted their movements, having entered somewhere with a view and atmosphere distinctively alien in the mansion. The floor layout was roughly identical to that of the previous Roswaal mansion. However, the basement part of the eastern wing was the only place that was starkly different.
+"Not the most pleasant air hangin' about down here, is it," Anastasia remarked.
 
-In the central building of the mansion, there was the main center wing that concentrated the facilities needed for daily life. The west wing contained multi-purpose facilities, such as the maids’ rooms and the guest’s rooms. And then there was the eastern wing, a place that acted as a storehouse/safe for the history and heritage of the ancient Mathers bloodline, such as books. However, the only place that was different was the eastern wing’s basement. There was a clear goal set for the cold, stone room in the basement of the noble mansion.
+She sniffed once, her curt little comment underscoring how the atmosphere had changed. There was no arguing with her reading of it; it was, plainly, a judgment the whole party shared. The air that hung over this level of the mansion could be called nothing but unpleasant.
 
-Anastasia: “Quite the unpleasant atmosphere floatin’ ‘round this place, huh.”
+"Different from Miasma, seems like," she went on, "but my body sure isn't happy about it either way."
 
-Anastasia snorted through her nose, complementing her brief comment on the different atmosphere. There was no denying her view on the mood, so it was indeed a clear assessment that everyone agreed with. The atmosphere that drifted about in this level of the mansion could not be described in any way other than “unpleasant”.
+"The structure of the building, and the purpose this place was raised for to begin with…" Julius said slowly. "It may be wholly unrelated—but I believe this place was ultimately built up around the presence that dwells within it."
 
-Anastasia: “It’s still different from Miasma it seems, but my body ain’t feelin’ too good ‘bout it for sure.”
+Anastasia and Julius traded these words while looking down the long, unbroken flight of stairs that sank into the darkness beneath the mansion. The Confinement Room had already been named for them; it seemed the two of them had guessed rightly enough at the kind of place that waited below. Or had come as near to the truth as made no difference.
 
-Julius: “The matter of the building’s structure and this facility’s purpose in the first place… It may be completely unrelated to that, but I do believe that this structure was ultimately erected due to the presence inside.”
+"Well then. I shall lead you down," Frederica said. "Please mind your footing, so that you don't slip."
 
-Anastasia and Julius looked down at the continuous stairs leading down to the basement of the mansion filled with darkness, as they exchanged these words. The Confinement Room had already been brought to their attention. It seemed that both of them had correctly imagined the sort of establishment that existed in the basement. Or were as close to the right answer as possible.
+With that she started down the stairs, and Subaru and the rest followed her tall back toward the basement. Julius's face said he had braced himself for whatever lay ahead. Their footsteps on the stone steps rang out with startling clarity through the enclosed space. A cold draft came climbing up from below, stirring Subaru's bangs, and for reasons he couldn't name it set him on edge.
 
-Frederica: “Well then. I shall be guiding you all, now. Please be careful to avoid having your feet slip.”
+"I am going to open it now," Frederica said.
 
-With those words, Frederica led them down the stairs. Subaru and the rest followed her tall back, headed for the basement. Julius’s face indicated that he had steeled himself for what lay ahead. The footsteps they made while walking down the stone stairs resounded very clearly throughout the space they were in. A cold breeze blew upwards from the basement, causing his bangs to shake slightly, which got on his nerves incomprehensibly.
+At the bottom of the stairs their way was barred by an iron door, and the door was fitted with a great many heavy locks. Frederica worked them loose one by one. The key turned with a sound, the bolts gave, and the door swung inward on a long creak. Beyond the gate a path of stone ran on, and at the far end of it, sunk deep into the back of the place, stood yet another door.
 
-Frederica: “I am going to open it.”
+"The one you're looking for is beyond this," Frederica said.
 
-Having descended towards the basement, they were blocked by an iron door standing right in front of them. The door had many solid locks installed onto it. Frederica released several of them, one by one. The key to the door made a sound, the locks were undone, and then the door opened with a creaking noise. Beyond that gate, a stone pathway lay in front, with yet another door to be found deep inside this place, at the back.
+She stepped aside and bowed, clearing the way for them to pass. They answered with small nods of the chin and went on toward the door, four of them in a line, Subaru at the head.
 
-Frederica: “The person you are looking for is beyond this door.”
+—The door at the very deepest part of the basement had no lock at all.
 
-Frederica stepped to the side of the door, making way for them to enter, and then bowed. They gave acknowledging gestures with a nod of their chin in response, and the four people headed straight towards the door, with Subaru in the lead.
+He laid his hand on the knob. One push, and they would surely come face to face with whatever was inside. His fingers on the door, Subaru held his breath and glanced back over his shoulder.
 
-—The door at the deepest part of the basement had no lock.
+Nobody said a word.
 
-He reached for the doorknob. If he were to push it open, they would surely meet what was inside. Upon coming into contact with the door, Subaru looked back with bated breath.
+Emilia, Julius, and Anastasia all watched what he was doing. The three of them gave him a nod, and Subaru drew a deep breath and put his strength into the hand that gripped the knob. With a sound, the door came open—
 
-Everyone: “—”
+"Roaar—roaaar! I'm gonnaaa eaaat yooou up!"
 
-Emilia, Julius, and Anastasia all stared at Subaru’s actions. The three nodded their heads at Subaru, and he took a deep breath, putting strength into the hand that gripped the knob. And with a sound, the door was pushed open—
+"Kyaaa—help me, no, nooo!"
 
-???: “Roaar, roaaar! I’m gonnaaaa~ eaaat~ yooou~!”
+"Heh, heh, heh. It's no good crying for help. Nobody's coming to save you."
 
-???: “Kyaaa~, help me, nooo~.”
+As the door opened, a sweet little voice reached them, and light came spilling into the passage. On the far side of the doorway a single girl sat in the room, ringed all about by a crowd of dolls. Her back was to them, and she went on making the dolls in her hands dance and speak. She kept slipping into these funny put-on voices—though it was anyone's guess what she was actually imitating. Whatever it was, she was thoroughly absorbed in it.
 
-???: “Hehehehe. Nobody will come to save you even if you cry for help.”
+"No—he's coming. Because he promised he'd come for me if I was ever in trouble, after all… hm?"
 
-With the door’s opening, a lovely voice was heard as the pathway became bathed in light. On the other side of the open door, a lone girl could be seen inside the room, a multitude of dolls placed around her. Her back faced the others as she continued to play with the dolls in her hands. She changed into an imitative voice, though it was unclear just what exactly she was imitating. Nonetheless, she was pretty into it.
+Clutching a little girl-doll, the child suddenly rose to her feet, as though something had caught her attention. She looked timidly over her shoulder—and found Subaru and the others standing stock-still and dumbfounded in the entrance, at which her large, round eyes went wide. Her light-brown hair was done up in braids, her features simple and sweet.
 
-???: “Nope, he’s coming. Because he promised to come to me if I was in trouble, after all… Hmm?”
+"Yo. How's it going?"
 
-Holding a small girl’s doll, the child stood up, having suddenly noticed something. Looking back timidly, she saw Subaru and the others standing still at the entrance dumbfounded, and then opened her large, round eyes. She had braided, light-brown hair and simple but lovely facial features.
+Subaru lifted a hand and greeted her as if nothing at all had happened.
 
-Subaru: “‘Sup, how are you?”
+"O-onii-san, you *idiot*! At least knock before you barge i-in!"
 
-Addressing her, Subaru raised his hand, as if nothing had happened at all.
-
-???: “O-onii-san, you idio~t! At least knock before you come i~n!”
-
-Unsurprisingly, he was yelled at as a result of his little prank.
+And, as anyone might have predicted, he got a shrill scolding for his little prank.
 
 ***
 
-Subaru: “So yeah, this is the prisoner of this mansion. Meili here will advise us regarding Witchbeasts.”
+"So, everybody—this is the mansion's one prisoner. Meili here is going to give us the lowdown on Witchbeasts."
 
-Meili: “I’ve been disgraced, onii-san hurt my feelings… Sniffle sniffle…”
+"I've been humiliated… onii-san hurt my feelings. Sniffle, sniffle."
 
-Subaru introduced the depressed girl, who was crouching at a corner of the room, surrounded by stuffed toys—Meili. Julius shook his head, putting his fingers between his eyebrows. While keeping the girl at the corner of his vision, he spoke as if blaming Subaru, who had gotten carried away.
+Subaru made his introduction of the sulking girl, who had folded herself into a corner of the room amid a heap of stuffed animals—Meili. Julius shook his head and pressed his fingers to the bridge of his nose. Keeping the girl at the edge of his sight, he spoke as if to reproach Subaru for letting himself get carried away.
 
-Julius: “It was a bit clumsy of me to not have gotten more information about this beforehand… But the poorness of your character is showing. It is inexcusable that you pull these pranks at every opportunity.”
+"It was careless of me not to have gathered more on this beforehand," Julius said, "but the meanness of your character is on full display. It really is inexcusable, the way you seize on every chance for a prank."
 
-Subaru: “I don’t think I’m playing around that much, though… Or well, I do agree that it’s in bad taste. Also, she really was someone dangerous before, you know?”
+"I don't think I'm messing around all that much, though… all right, fine, I'll grant it's in poor taste. But you know, she really was a dangerous person, before."
 
-Julius appeared to have misgivings about Subaru’s justifications. Ignoring those all-suspecting men, Emilia and Anastasia lined up and spoke out to Meili.
+Julius looked as if he took Subaru's excuses with more than a grain of salt. Paying no mind to the suspicions of the men, Emilia and Anastasia went and crouched together before Meili.
 
-Emilia: “Sorry, Meili. We’ll scold Subaru later for this, so don’t worry.”
+"I'm sorry, Meili," Emilia said. "We'll give Subaru a good scolding for you later, so please don't be upset."
 
-Anastasia: “My, what a cute girl, ain’t she? Beatrice-chan, Petra-chan, ain’t this quite tellin’ of Natsuki-kun’s tastes?”
+"My, what a darling little thing," Anastasia said. "Beatrice-chan, Petra-chan—wouldn't you say this tells you an awful lot about Natsuki-kun's tastes?"
 
-Subaru: “That’s a ridiculous opinion of me. Mind saying something more fitting!? I thought to gather people, and not specifically lolis!”
+"That's a monstrous thing to say about a guy! Could you please pick something a little more flattering?! I set out to gather *people*, not specifically little girls!"
 
-There was suddenly some sense of grounding to his nickname “Lolimancer”, so he wished she wouldn’t say such frightening things. Putting that aside, Meili hadn’t listened to Emilia and her words either, as she was indignant in earnest. In that sense, there was an imbalance in that she possessed child-like sensitivity.
+His nickname, Lolimancer, had suddenly acquired a whiff of legitimacy, and he dearly wished she wouldn't say such frightening things. That aside, Meili had paid no more heed to Emilia's soothing than to anything else; she was sunk in genuine indignation. In that respect she was still very much a child, prone to a child's tender, lopsided feelings.
 
-Subaru: “Meili.”
+"Meili," Subaru said.
 
-Meili: “Can’t hear you.”
+"Can't hear you."
 
-Subaru: “Meili, come on.”
+"Meili, come on."
 
-Meili: “I don’t care.”
+"Don't care."
 
-This was the situation. She was a nuisance, having entered a mode in which she’d refuse to listen. Thus, Subaru decided to bring out the last resort as quickly as possible. Subaru reached around his back, and then showed Meili the ace up his sleeve.
+So it had come to this. She was a handful, having slid into the mood where she'd refuse to hear a word from anyone. Subaru resolved, therefore, to play his last card as quickly as he could. He reached around behind his back and produced, for Meili's benefit, the ace up his sleeve.
 
-Subaru: “Look Meili. It’s a present, take it. It’s a new stuffed toy, Darepanda.”
+"Look here, Meili. A present—take it. It's a brand-new stuffed animal. Darepanda."
 
-Meili: “—! Wow! It’s cu~te!”
+"—! Wow! It's so cu-ute!"
 
-What Subaru presented Meili with was this stuffed toy, one that he had fixed up during the dragon carriage trip back from the city of Pristella. As someone who had improved his skills in domestic assistance this past year, Natsuki Subaru’s sewing skills had become twice as good as before. He could now produce stuffed toys, and if he so wished, he could maybe even create women’s clothes now.
+What Subaru held out to her was a stuffed toy he had patched together during the long dragon-carriage ride home from Pristella. Over this past year of honing his skills in the domestic arts, Natsuki Subaru's needlework had grown twice as good as it once was. He could turn out a stuffed animal now, and if the whim took him, he might even manage a dress.
 
-Anyhow, this new stuffed toy was an innovative work that had merged the panda theme with a “lazy from the heat” taste. He more-or-less felt like he had seen something akin to it before, but since that was something from beyond this world it wouldn’t be a big deal, so whatever. And so, he presented the new piece that had this and that to it, and Meili accepted it with glimmering eyes.
+At any rate, this new toy was a bold invention that married the theme of a panda to a certain languid, worn-out-by-the-heat sensibility. He had the faint feeling he'd seen something rather like it somewhere before—but since that somewhere lay beyond this world, it was no matter, and he let it go. And so he presented his latest creation, with all its little touches, and Meili received it with her eyes shining.
 
-Meili: “Cute! It’s a new animal! Wonder what I should name it… Okay, I’ve got it! I’ll call this one Big Panda!”
+"Cute! It's a brand-new animal! Now, what should I name it… okay, I've got it! I'll call this one Big Panda!"
 
-Subaru: “I see you’ve named it what it literally is.”
+"I see you named it exactly what it is."
 
-Putting aside her naming sense, she was extremely skilled at understanding the essence of things. Hugging the stuffed panda in a loving way, she looked at Subaru and the others with a face that indicated that her mood had been salvaged.
+Her naming sense aside, she had an unerring instinct for the essence of a thing. Hugging the stuffed panda close and lovingly, she looked up at Subaru and the others with a face that showed her spirits had been thoroughly rescued.
 
-Meili: “By the way, welcome back onii-san, onee-san. Looks like you guys have been away for quite a bit, huh. Petra-chan missed you, you know?”
+"By the way—welcome home, onii-san, onee-san. Looks like you were gone a good long while. You know, Petra-chan missed you."
 
-Subaru: “We were gone for a whole month, after all. And we’re going to be away for a while again, so I don’t really wanna think about how it’ll probably anger Petra, but…”
+"We were away a whole month, after all. And we'll be gone a while again soon, so I'd honestly rather not think about how furious that's going to make Petra, but…"
 
-Meili: “Petra-chan does love onii-san, after all… Hm, new people?”
+"Petra-chan really does love onii-san, you know… hm? New people?"
 
-As she was lining up her scattered plush toys onto shelves, Meili suddenly noticed Julius and Anastasia, which showed on her face. Julius became surprised at that change in mood, but Anastasia simply gave a nod with a composed look.
+She was lining her scattered plush toys back onto their shelves when Meili suddenly noticed Julius and Anastasia, and it showed plainly on her face. Julius was taken aback by the shift in her mood, but Anastasia only gave a small, unruffled nod.
 
-Anastasia: “Compared to Mimi, it’s like the feelin’ of bein’ manipulated’s just the surface.”
+"Set against Mimi," she said, "the feeling of bein' played with barely rises past the surface."
 
-Julius: “…Now that you say it, I agree. Let us give our thanks to Mimi.”
+"…Now that you mention it, I agree," Julius said. "Let us give our thanks to Mimi."
 
-Master and servant displayed a strange scene of agreement, and after that Julius’s eyes swiftly darted around the room. After briefly taking a look at that underground space.
+Master and servant shared this strange moment of accord, and afterward Julius's eyes moved swiftly about the room. Once he had taken the underground space in at a glance, he said:
 
-Julius: “Nevertheless, I had assumed that it would be a harsh environment after hearing that it was a Confinement Room… But contrary to my expectations, it seems to be a peaceful place to spend time in.”
+"All the same—I had assumed, on hearing the words 'Confinement Room,' that it would be a harsh place. Yet against every expectation, it seems a rather peaceful spot to pass one's time."
 
-Emilia: “The person in here is a little girl, so it’s not like we wanted to torment her… But, she can’t go outside either, so it’s complicated.”
+"The person we keep here is a little girl," Emilia said, "so it isn't as though we wanted to make her suffer… but she can't go outside, either. It's complicated."
 
-Emilia lowered her eyebrows, her visage complex.
+She let her brows droop, her face troubled.
 
-Just like she had stated, the Confinement Room—or rather, Meili’s living space, to put it bluntly, gave off a very lenient feeling for a place of incarceration. It did seem cold precisely because of the stone pathway, but colorful wallpaper and carpet decorated this girl’s room, and she was free to do whatever she pleased, unrestrained as she was. On the shelves, there were countless stuffed toys that had been crafted by Subaru’s hands, along with many books and play equipment.
+And just as she said, the Confinement Room—or, to put it bluntly, Meili's living quarters—had a decidedly gentle feeling for a place of imprisonment. The stone passage did lend it a chill, true enough, but bright wallpaper and carpet dressed the girl's room, and she was free to do as she pleased, bound by nothing. On the shelves stood countless stuffed toys made by Subaru's own hands, alongside a wealth of books and playthings.
 
-She was being given food, and there wasn’t any problem with bathing or going to the bathroom. In short, it was a place where a *Hikikomori* could live in peace. It was so comfy that even Subaru wanted to be confined in it. However—
+She was fed, and there was no trouble over baths or the privy. In short, it was a place where a *hikikomori* could live in perfect peace—so comfortable that even Subaru half wished to be shut up in it. And yet—
 
-Julius: “It seems that there is a peculiar air, similar to Miasma, leaking endlessly.”
+"There is a peculiar air about it," Julius said, "something akin to Miasma, seeping out without end."
 
-Anastasia: “It also seems to be comin’ from that girl… is that it?”
+"And it seems to be comin' from that girl… that's it, isn't it," Anastasia said.
 
-In response to Anastasia and the others’ look, Meili nodded with a smile on her face. She had an honest smile, but something emanated from that girl, so dreadful and disgusting that it could not be hidden. That was the biggest reason as to why Meili had been confined here, and was not released.
+Meili answered the look Anastasia and the others turned on her with a smiling nod. It was an honest smile—yet something poured off the child, something so dreadful and so foul that no amount of sweetness could hide it. That was the chief reason Meili had been shut away here and was not set free.
 
-Subaru: “I did talk about it on the dragon carriage, but this girl actually aimed for Emilia and us others before… Hmmm, so she’s like a killer-for-hire. Guess you could put it like that, right?”
+"I mentioned it back in the dragon carriage," Subaru said, "but this girl actually came gunning for Emilia and the rest of us, once… hmm, so, she's basically a hired killer. That's about the size of it, right?"
 
-Julius: “I feel that is wrong already at that point, but please, continue.”
+"I feel there is already something amiss even at that stage," Julius said, "but by all means, go on."
 
-Subaru: “Feels like you’re implying something with the way you say that… Anyways, she’s a professional killer. So, as for what Meili’s small body can do, in short, she can manipulate Witchbeasts. She is a Witchbeast Master.”
+"There's a whole lot of meaning packed into how you said that… anyway. She's a professional. And as for what Meili's little body can do—in short, she can command Witchbeasts. She's a Witchbeast Master."
 
-Meili: “Yep, me and the bad animal-sans get along pre~tty well.”
+"Yep. Me and the naughty animal-sans get along re-eal well," Meili said.
 
-Meili said that with an “Ahem” as she puffed up with pride, but the contents of her words were shocking. Witchbeasts were harmful threats to mankind and were never friendly with humans in the first place. It seemed that there was one exception, an arrangement in which Witchbeasts would obey the person who had broken their horn, but—
+She said it with an "ahem," puffing herself up with pride, but the substance of it was appalling. Witchbeasts were a scourge upon mankind, never in any age friendly toward humans. There was, it was said, a single exception—an arrangement whereby a Witchbeast would obey the one who had broken its horn—but—
 
-Subaru: “In Meili’s case, the presence of the horn is irrelevant. I’m not too good with that theory so even if I explain it you wouldn’t understand.”
+"In Meili's case, the horn's got nothing to do with it," Subaru said. "I'm shaky on the theory, so even if I tried to explain it, it wouldn't land."
 
-Meili: “From what Mama said, I play the same role as a Witchbeast’s horn. Sooo, I can be friendly with the Witchbeasts.”
+"The way Mama put it," Meili said, "I play the same part a Witchbeast's horn does. So-o, the Witchbeasts and I can be friends."
 
-The meaning of fulfilling the role of a Witchbeast’s horn was obscure. That being said, it seemed like there had never been any type of research done on the ecology of Witchbeasts. Of course, there was the possibility there were people who hunted Witchbeasts for a living, but even if they held information about their traits, they most likely would not be looking at them from a research point of view.
+What it meant to stand in for a Witchbeast's horn was murky at best. Then again, it seemed no proper study had ever been made of the creatures' nature. There were surely people who hunted Witchbeasts for a living, of course—but even if such folk held some lore about the beasts' habits, they would hardly have looked at them through a scholar's eyes.
 
-Emilia: “Initially, Meili came to attack us with one more person. Garfiel defeated that person, and this girl was caught. Ever since then, this girl’s always been sheltered by this mansion.”
+"At first, Meili came to attack us with one other person," Emilia said. "Garfiel defeated that person, and this girl was caught. She's been sheltered here in the mansion ever since."
 
-Anastasia: “Why did ya do that much? No matter what’cha say, if she was an enemy before, ya should’ve dealt with her quickly… Or wait, it doesn’t seem like this child can be dealt with.”
+"Why go to such lengths?" Anastasia asked. "Say what you like—if she was your enemy once, you should've dealt with her then and there… or, wait. It doesn't seem this child *can* be dealt with."
 
-Emilia: “…There’s no way we can even think of killing her. But at the same time, we can’t expel her either. Because this girl says that if she gets released…”
+"…There's no possible way we could bring ourselves to kill her," Emilia said. "But at the same time, we can't turn her out, either. Because this girl says that if we let her go—"
 
-Meili: “Mama’ll get mad at me. Elsa died, and I failed, so she’ll definitely kill me if she finds me. So, staying here is the safest option.”
+"Mama will be furious with me," Meili finished. "Elsa died, and I failed, so if she finds me she'll kill me for certain. So the safest thing is to stay right here."
 
-Meili answered with a calm tone, but it seemed like her expression had become clouded. Meili had lost Elsa, who she worked with, and had failed in carrying out her task. Their guardians were most likely something like professional killer managers, and their failures would definitely never be allowed.
+Meili gave her answer in a calm, level voice, yet a shadow seemed to fall across her face as she spoke. She had lost Elsa, her partner in the work, and failed to carry out the task set for her. Whoever their guardians were, they were most likely something like managers of hired killers—and a failure of that kind would never, ever be forgiven.
 
-Banishing her would mean she would receive punishment—those would be her own personal affairs, and even though Subaru and the others were completely unrelated to that,
+To be cast out would mean receiving her punishment; and that was her own affair, a matter with which Subaru and the others had nothing whatever to do—
 
-Subaru: “It certainly is a nightmare to deal with.”
+"It really is a nightmare of a situation," Subaru said.
 
-Julius: “This is not the first time Emilia-sama’s and your ideations have been brought up. It was out of line for us outsiders to utter such nonsensical things… Incidentally, who is this Mama of hers?”
+"This is hardly the first time Emilia-sama's thinking and yours have been laid out for us," Julius said. "It was out of turn for us outsiders to say such foolish things… by the by, who is this 'Mama' of hers?"
 
-Subaru: “We don’t know. Any other thing besides this mother’s name, Mama, is an unknown. Based on what Meili said, she doesn’t even know what her face looks like. What kind of family environment is that?”
+"We don't know. Beyond the fact that the mother goes by 'Mama,' the woman's a total blank. By what Meili tells us, she doesn't even know her own mother's face. What kind of home is that?"
 
-But, considering the professional killer business, perhaps that grim way of life was unavoidable. It seemed difficult to figure out who this mother was based off the content of Meili’s statements, so they could not shake off anxiety about the future.
+Still—given the trade of a professional killer, perhaps so bleak a way of living couldn't be helped. It seemed hopeless to work out who the mother was from anything in Meili's account, and the party could not shake their unease about what lay ahead.
 
-Subaru: “That Roswaal bastard was also useless after Elsa died, since there was no one like an intermediary.”
+"That bastard Roswaal was no use either, once Elsa was dead," Subaru muttered, "since there was nobody left to act as a go-between."
 
-Julius: “Did you say something?”
+"Did you say something?" Julius asked.
 
-Subaru: “Just talking to myself.”
+"Just talking to myself."
 
-The Insignia incident that occurred on the very first day, the day Subaru had been summoned, in the Royal Capital, had been orchestrated by Roswaal. Of course, Elsa, who had attempted to reap Emilia’s life, was also the one who he had commissioned to do so. Considering the flow of events of that request, it should have been easy to draw that conclusion.
+The Insignia affair on the very first day—the day Subaru had been called to this world—had been staged in the Royal Capital by Roswaal's hand. And Elsa, of course, who had tried to reap Emilia's life, had been the one he'd hired for the deed. From the shape of that commission, the conclusion should have been easy enough to draw.
 
-However, the intermediary of that communication line had perished somehow, and it seemed that they were unable to contact the person. If Roswaal’s words were anything to be trusted, Elsa and Meili’s subsequent attack was unrelated to his intentions—This was where this Mother or whatever had become a concern.
+But the go-between on that line of communication had somehow perished, and it seemed there was now no way to reach the woman. If Roswaal's word could be trusted at all, then the attack Elsa and Meili had made afterward lay outside his designs—and this was precisely where the "Mother," or whatever she was, became a thing to be feared.
 
-Subaru: “Anyhow, that’s our relationship with Meili. This girl’s here out of necessity. It’s not to spoil her, at least for now.”
+"Anyway, that's where we stand with Meili," Subaru said. "She's here because she has to be. It isn't about coddling her—not for now, at least."
 
-Meili: “Considering that, Subaru and everyone are being a little too nice.”
+"Even so," Meili said, "Subaru and everyone are being just a little too nice about it."
 
-Subaru: “In regards to that, it’s our dreamy good virtues taking over!”
+"Ah, well, as for that—it's our dreamy good-naturedness taking the wheel!"
 
-Because after all, it was painful seeing this small, youthful girl being confined to a cold basement. It was not something they could just decide to forget, and if they attempted to disregard it, they would end up having bad dreams. So, it’s not like he had any grudges against her, and as such he was better off being in a good mood with her.
+Because, when it came down to it, there was something painful in the sight of so small and young a girl locked away in a cold cellar. It wasn't a thing one could simply resolve to forget; try to look past it, and you'd only end up plagued by bad dreams. He bore her no grudge, and so it suited him well enough to keep things pleasant between them.
 
-Anastasia: “…Wouldn’t’cha normally have a grudge against her?”
+"…Wouldn't a body normally hold a grudge against her, though?" Anastasia said.
 
-Subaru: “…Should I?”
+"…Should I?"
 
-Anastasia: “I mean, didn’tcha say that she tried to kill you? So…”
+"I mean, didn't you say she tried to kill you? So…"
 
-Subaru: “There’s such a thing as idle malicious intent, although a crime is a crime regardless of age.”
+"There's such a thing as pointless, idle malice—though a crime's a crime, whatever the age of the one who commits it."
 
-In response to Anastasia’s question, Subaru went into thought while scratching his cheek. Once he took a peek at Meili to the side, Subaru noticed that she was looking at him with unreadable emotions in her eyes. He wasn’t really concerned about her, but he spoke his thoughts honestly.
+At Anastasia's question, Subaru fell to thinking, scratching his cheek. When he stole a glance at Meili beside him, he found her watching him, some feeling he couldn't read swimming in her eyes. He wasn't especially bothered by it, and he spoke his mind plainly.
 
-Subaru: “If someone orders a person who doesn’t know any better to commit a crime, then the person who made the order should be blamed. Even more so if it’s a kid. If they’re capable of thinking for themselves and do it regardless, I think there’s no difference. ‘An eye for an eye’, I think the Hammurabi Code is nothing but negative.”
+"If somebody orders a person who doesn't know any better to commit a crime, then it's the one who gave the order who ought to be blamed. All the more so if it's a child. But if they're capable of thinking for themselves and do it anyway, then I figure it makes no difference. 'An eye for an eye'—I think the Code of Hammurabi's got nothing going for it but the downside."
 
-Anastasia: “That’s some lip service. Then do ya think the people this girl has murdered would agree with that?”
+"Fine words," Anastasia said. "So—do you suppose the people this girl has murdered would agree with you?"
 
-Subaru: “I don’t think so, they’re free to want revenge on Meili. As for myself, had I died, even I don’t think I’d state my forgiveness like I did now.”
+"I doubt it. They're free to want their revenge on Meili. As for me—if I'd been the one killed, I don't imagine even I would talk about forgiveness the way I just did."
 
-In the end, Subaru’s opinions and thoughts would change depending on first impressions. If he were told things such as that he wasn’t right in the head, or that he was being ruled over by his emotions, then so be it. Actually, that was probably true.
+In the end, Subaru's opinions and his sympathies swung on first impressions. Tell him he wasn't right in the head, or that his feelings ruled him, and—so be it. In fact, it was probably true.
 
-Subaru: “Back when I was a kid, my parents and other adults would take responsibility for me. So, I thought that if the kids near me do something that they can’t take responsibility for, how about I take them up instead? That’s all.”
+"When I was a kid, my parents and the other grown-ups took responsibility for me," he said. "So I figured—if there's a kid near me who does something they can't answer for, why not answer for it in their place? That's all it is."
 
-Anastasia: “…A valuable opinion, thanks.”
+"…A valuable opinion. My thanks," Anastasia said.
 
-Anastasia cut off Subaru’s words, as she had lost interest halfway. Of course, he felt like that was a typical reaction, so his feelings hadn’t been hurt. In an organization where clean judgement was not taken into consideration, any crime would be judged as a crime, regardless of age. A grace period, however, was given because this camp was a lenient one. Subaru didn’t dislike that atmosphere and environment.
+She cut him off there, her interest having drained away somewhere along the line. He'd expected as much, honestly, and it did his feelings no injury. In an organization where clean, considered judgment counted for nothing, any crime would be judged a crime, whatever the age of the offender. Here a grace period was granted, only because this camp of theirs was a lenient one. Subaru did not dislike that air, that way of doing things.
 
-Julius: “I…”
+"I…" Julius began.
 
-Subaru: “—Hm?”
+"—Hm?"
 
-Julius: “I believe what Subaru is saying makes sense.”
+"I believe there is sense in what Subaru says."
 
-Subaru: “…Thanks.”
+"…Thanks."
 
-He had not been expecting completely positive reactions, but words such as those were akin to salvation for him. Then turning to Meili, who had been forgotten even though the conversation had her as the topic, Subaru matched his gaze with hers.
+He had not been braced for wholehearted agreement, and words like those came to him as something close to salvation. Then he turned to Meili—forgotten, though she'd been the very subject of the talk—and met her eyes with his own.
 
-Subaru: “I have something that I need your help with. Mind coming along with me?”
+"There's something I need your help with. Would you come along with me?"
 
-Meili: “…Oka~y. I’ll go with Onii-san.”
+"…Oka-ay. I'll go with onii-san."
 
-Meili quietly nodded at Subaru’s request. Neither Subaru nor anyone else pointed out how they felt like they could witness slight tears from the girl who had hidden her face with the panda in her embrace.
+Meili nodded quietly at his request. And neither Subaru nor anyone else remarked on how they had seemed to catch the faint glint of tears in the girl who had hidden her face against the panda in her arms.
 
 ***
 
-Meili: “I’ve only been to the Augria Sand Dunes twice.”
+"I've only ever been to the Augria Sand Dunes twice."
 
-Subaru and the others’ explanation ended, and Meili said those words while fiddling with her braided hair. She closed her eyes as if looking back at her memories before resuming,
+Subaru and the others had finished laying it all out, and Meili spoke while toying with one of her braids. She shut her eyes, as though looking back over her memories, before she went on.
 
-Meili: “I visited to replenish the Witchbeasts in my control. There are lots of Witchbeasts there, so a lot of progress was made, but…”
+"I went to top up the Witchbeasts under my control. There are lots of them out there, so I got a good deal done, but…"
 
-Subaru: “But?”
+"But?" Subaru prompted.
 
-Meili: “Onii-san, are you really going there? Everyone besides me will probably die, you know…?”
+"Onii-san—are you really going out there? Everyone but me will probably die, you know…?"
 
-It seemed that their actions were seen as reckless, in the eyes of this girl who was devoid of morals. The Witchbeast Master’s opinion carried quite some weight regarding just how much they were striving for.
+To the eyes of this girl unburdened by any morals, their plan looked like plain recklessness. And the Witchbeast Master's judgment carried no small weight as to just how far over their heads they were reaching.
 
-Subaru: “I really want to use the expertise of those with experience as a reference, but the idea that we’ll die if we go’s been thrown around a lot already, so it’s a bit late for that. Also, if it’s just like a maze in the desert, then we have preparations to break out of it.”
+"I'd love to lean on the wisdom of somebody with real experience," Subaru said, "but 'go out there and you'll die' is a line that's already been thrown at us more times than I can count, so it's a little late for that. Besides—if it's just a matter of a maze in the desert, we've got the means to break out of it."
 
-Anastasia: “Yes, that’d be me.”
+"That'd be me, yes," Anastasia said, waving a hand to underscore her part as their guide.
 
-Anastasia waved her hand, emphasizing her role as a guide.
+Even so, in this campaign to cross the desert and reach the Watchtower, simply not losing their way was worth all of thirty points—a score that guaranteed failure. Or rather, until they could find an answer worth a perfect hundred, they would have their work cut out for them merely getting out alive.
 
-However, avoiding getting lost on the path in this endeavor to conquer the desert to get to the Watchtower was only worth thirty points—failure would be inevitable with this score. Or rather, as long as they remained unable to find an answer worth a perfect score, they would probably have difficulty getting out alive.
+There were three problems: the Desert Labyrinth, the Witchbeast Den, and the Sage's Eye. The Labyrinth would sort itself out with Anastasia standing in for Echidna; what wanted a countermeasure was the Den. That was why he'd hoped to draw more out of Meili—but.
 
-The three problems were the Desert Labyrinth, the Witchbeast Den, and the Sage’s Eye. The Desert Labyrinth would work out with Anastasia being Eridna, and what they wanted to prepare a countermeasure for was the Witchbeast Den. That was why he wished to hear more details from Meili, but—
+"How should I put it… you don't know any way to steer clear of the Witchbeasts? Or, the other way round—some way to lure them off away from us?"
 
-Subaru: “How should I put it… Don’t you know any way to avoid the Witchbeasts? Or on the contrary, ways to lure them away from us?”
+"Onii-san, if you go running off on your own, a wh-ole lot of them will chase after you, for sure."
 
-Meili: “Onii-san, if you run on by yourself, a lo~t of them will definitely chase you, you know?”
+"I've tried that a few times already, and every one of them was miserable."
 
-Subaru: “I’ve already done that a few times and they were painful experiences.”
+Once, a year ago, at the mansion; and once more, a little after, out on the plain when the Whale came. He rather felt it was about time to retire the tactic. He wasn't unwilling to fall back on it if there were truly no other course—but if it could be helped, Subaru would sooner not end up the only man left standing in the middle of the desert.
 
-It had happened once a year ago at the mansion, and once again a little after that by the Whale on the plain. He felt like it was about time to stop this. Of course, he wasn’t reluctant to do it if there was no other measure to take, but Subaru wanted to avoid being the only one left behind in the middle of the desert if possible.
+"If onii-san doesn't want to do it himself," Meili said, "then maybe you could get lots of decoys ready. Every Witchbeast will leap at something living before it touches ordinary food—so, something along those lines."
 
-Meili: “If onii-san doesn’t want to do it, then maybe you could prepare a lot of decoys for it. All Witchbeasts jump at living things over normal food, so maybe something like that.”
+"That's absolutely out! I'm against it—I am completely against it!" Emilia cried.
 
-Emilia: “That’s definitely a no! I’m against it! I am against it!”
+"You don't have to object quite so frantically. Nobody's going to be chosen for it, so it's fine."
 
-Subaru: “You don’t have to disagree so frantically. Nobody will be chosen, so it’s fine.”
+That said, no useful notions seemed to be surfacing. Or, at the least, where the Witchbeasts' nature was concerned, if Meili—who handled them better than anyone—couldn't produce a workable plan, then they hadn't much to go on.
 
-That being said, it seemed like no useful opinions were coming up. Or at least, as far as the Witchbeasts’ ecology was concerned, with Meili, someone who was better at handling them than anyone else, incapable of coming up with an effective plan, they were helpless.
+"Right—guess we're left with cutting down the Witchbeasts one by one as they come at us. I'll be counting on Emilia-tan and Julius for a lot of that."
 
-Subaru: “Yep, guess we’ll have to beat the Witchbeasts that come at us one-by-one. Gonna expect a lot from Emilia-tan and Julius.”
+"I wonder at your estimate of your own worth, seeing as you left yourself off that list," Julius said. "But—do you truly think it can be done?" And he put the question of its feasibility to Meili. Hearing him, she looked from Emilia to Julius and back, and said:
 
-Julius: “I am wondering about your self-appraisal, considering how you were not included there… But do you think it’s possible?”
+"Probably not. Can onee-san keep using magic for about a week without any rest?"
 
-Julius reacted to Subaru’s proposal by asking Meili about its feasibility. Upon hearing that, Meili looked at Emilia and Julius in turn, and,
+"You want us fighting some last-ditch battle in a trench!?" Subaru said.
 
-Meili: “Probably not. Can onee-san use magic for about a week without rest?”
+"I-I'll try…?" Emilia offered.
 
-Subaru: “You want us to have something like a final fight in a trench!?”
+"You don't have to! This is just how an unreasonable conversation runs away with itself! Emilia-tan's hair and skin will dry right out—so let's not! There, rejected!"
 
-Emilia: “I-I’ll try…?”
+It seemed the plan to bull their way through by force already carried some outlandish demands. How much of that picture Meili had actually witnessed was anyone's guess, but if there was no childish exaggeration in what she said, then the brute-force road was one they could never walk.
 
-Subaru: “You don’t have to! This is the flow of an unreasonable conversation! Emilia-tan’s hair and skin will dry up, so let’s not! Okay, rejected!”
+"How about smearing Witchbeast blood over the dragon carriage," Emilia said, "and fooling the other Witchbeasts' noses?"
 
-It seemed like the plan to break through by force already had some unreasonable details to it. Just how much of that scenario Meili had actually seen was unknown, but if there was no such thing as childish exaggeration in her statements, then they could never perform the unreasonable.
+"No good—the ground dragons won't be fooled by it, and there's every chance the Witchbeasts wouldn't hunt in a pack anyway. Something like hiring guards, then… what if we brought on a whole army for this, the way we did with the White Whale?"
 
-Emilia: “How about smearing Witchbeast blood on the dragon carriage and fooling the other Witchbeasts’ sense of smell?”
+"That, too, will not do," Julius said. "It has been tried before, by others who challenged the Pleiades Watchtower. Not an army, quite, but a large company all the same. You may guess the result for yourself. What of breaking the horn of one powerful Witchbeast and using it to hold off the rest?"
 
-Subaru: “No, the ground dragons won’t be able to fool them, and there’s the possibility that the Witchbeasts won’t band together. Something like hiring guards… How about hiring a big army for this, much like what was done for the White Whale?”
+"If it's not something as overwhelming as the Whale, we'll just get swamped by sheer numbers. Sure would be nice if slipping past them were as easy as—I don't know, spraying on some bug repellent."
 
-Julius: “That will not be possible either. That was done before by other people who challenged the Pleiades Watchtower. Even though it was not as big as an army, it was still a big group. Feel free to guess the result. How about breaking the horn of a powerful Witchbeast and using it to fend off other Witchbeasts?”
+But Subaru's own scent—the Witch's Lingering Scent—was less repellent than lure; it was a spray that drew the pests straight to him, which made him worse than useless. It was Roswaal who saw to the endless upkeep of the barrier that walled Arlam Village off from the Witchbeasts' territory. Something like raising a barrier around people—one that traveled along with them—did not, it seemed, lie within reach.
 
-Subaru: “If it’s not as overwhelming as the Whale, then we’ll be overrun by their numbers. It ‘d be nice if avoiding them was simple, such as using something like insect repellent spray.”
+"Maybe we get Roswaal to carry us and strike from the sky," Subaru said.
 
-Subaru’s odor—or rather, the Witch’s Lingering Scent, was a spray that brought insects towards him, so he was useless. Roswaal was the one responsible for constantly managing the barrier that separated Arlam Village from the Witchbeasts’ habitat. Something like creating a barrier around people, one that moved together with them—It seemed like that sort of thing was not possible.
+"Were we able to slip past the Sage's Eye, that might have been an option," Julius replied.
 
-Subaru: “Perhaps we should have Roswaal hold onto us, and attack from the sky.”
+"Ah—damn, right. We've still got the Sage to reckon with too."
 
-Julius: “If we could slip by the Sage’s Eye, then that may have been an option.”
+His unrealistic idea was struck down by a realistic one. Even supposing they could give the Witchbeasts and the desert the slip, there remained the Sage to worry over. How was it that no one, ever, had managed to steal past this person? It was, in all honesty, the single piece of the puzzle they hadn't the faintest idea how to solve.
 
-Subaru: “Ahh, damn, right. We have to consider the Sage too.”
+"If we could just narrow it down to one problem…" Subaru said.
 
-His unrealistic viewpoint was denied by a realistic one. Even if they could evade the Witchbeasts and the desert, there was still the Sage to worry about. Just how had nobody ever been able to slip by this person? It was honestly the only thing they were completely in the dark on how to handle.
+"—Geez. I guess I've got no choice, then," Meili said.
 
-Subaru: “If we could at least narrow it down to one problem…”
+"Oh?"
 
-Meili: “—Geeez, I guess I’ve got no choice.”
+They had all been sitting in a ring on the floor of the room, nursing headaches as they cast about for a way out of the tangle, when Meili at last spoke up. She got to her feet and gave her small head a little shake at them.
 
-Subaru: “Oh?”
+"I can come with you. If I'm there, the Witchbeasts won't care what any of you do. You'll be free to keep clear of them, or make pets of them, or set them killing each other—or have them eat the Sage person right up."
 
-Subaru and the others all sat in a circle in the room, getting headaches from thinking about the way out of this conundrum, and then, finally, Meili spoke. She stood up, shaking her small head at Subaru and the others.
+"We're not doing that last part! But—well…"
 
-Meili: “I can go with you guys. If I’m there, the Witchbeasts won’t care what you do. You’ll be free to keep away from them, make them pets, make them kill each other, or make them eat the Sage person.”
+His eyes went wide at the frankly extreme suggestion, yet the offer itself shocked him more. Not only was Meili willing to cooperate—she was willing to go out into the world herself, the very thing he'd been sure she would never propose.
 
-Subaru: “We won’t do the second half! Or anyways…”
+"Aren't you scared to go outside? Are you sure about this?"
 
-He opened his eyes wide at that fairly extreme remark, but the proposal shocked him even more. Not only was Meili being cooperative, but she was willing to go out on her own, an opinion he thought she would never express.
+"It's not like Mama's going to find me the moment I set foot out of the mansion, you know? I'm scared of being found, sure. But I can't stay shut up in here my whole life."
 
-Subaru: “Aren’t you scared to go outside? Is that alright?”
+It caught him off guard, that Meili should be so aware that sooner or later she would have to leave. And yet perhaps it was only natural. He'd looked in on her whenever the chance came, taking his turn with the others—but even so, the hours the girl spent shut alone in that room outnumbered them many times over. She'd had time enough, surely, for the silence to grow frightening. To be confined alone in a room was at once a rest and a terror; and even if such a life lulled a person into dullness, there would come a day when it would seize the heart and wring it without warning.
 
-Meili: “It’s not like I’ll be found by Mama right after I leave the mansion, you know? I’m scared of being found, but I can’t just stay in here my whole life.”
+"Subaru…" Emilia murmured.
 
-He was surprised by Meili being conscious of the fact that, sooner or later, she would have to leave. But, that may have been natural. He had been taking turns checking on her whenever the chance presented itself, but even then, the time that girl spent confined in her room by herself was multiples larger. Certainly, she had had so much time to think that the silence would become scary. Being confined in a room, alone, was both relaxing and terrifying. And even if those sensations evoked lethargy in her, one day, her heart would be tortured suddenly.
+And while Subaru was feeling an unaccustomed sympathy for the state of Meili's heart, Emilia gave his sleeve a gentle tug. He knew what she was thinking, and he thought the same.
 
-Emilia: “Subaru…”
+"This isn't a nice little stroll outdoors," he said. "We've got a guide, we'll be crossing a desert, and even with you along, we'll still have to fight our way through the Witchbeast Den. Worse than that, some frightening Sage might be watching the whole way."
 
-And while Subaru was feeling unusual sympathy for Meili’s heart, Emilia gently pulled on his sleeve. Subaru knew what she was thinking, as he agreed with it as well.
+"Isn't it lovely, taking a walk after so long?" Meili said.
 
-Subaru: “This isn’t just a fun walk outside. We have a guide, we’ll be crossing the desert, and even though we have you, we’ll have to get through the Witchbeast Den. To make matters worse, some scary Sage guy might be on the watchout too.”
+With those game words she answered him. How much of it was bluster he couldn't tell, and neither could he tell how much was the plain truth, but—
 
-Meili: “Isn’t it nice taking a walk after a while?”
+"She's our trump card against the Witchbeasts, isn't she?" Emilia said.
 
-With those bullish words, Meili replied to Subaru. Just how much of it was a bluff was unbeknownst to him, and likewise, just how much of it was her telling the truth was too, but—
+"Ah—yeah, that's right. We'll be counting on you, Meili."
 
-Emilia: “She is the trump card for the Witchbeasts, right?”
+"I'll do my very best, even if you don't," Meili said.
 
-Subaru: “Ahh, yeah that’s right. We’ll be counting on you, Meili.”
+Emilia and Subaru traded a look, and then they both nodded to her. The girl to whom their words were addressed answered as if she meant to push herself past the very limit of her strength, and hugged the panda tight. And so this became one step forward toward the journey's end—at which Julius folded his arms, and a few words spilled out of him, his face full of admiration for what he had just watched unfold.
 
-Meili: “I’ll try my best even if you don’t.”
+"I truly wish I did not have to say it," Julius said, "but talking little girls around really is one of your gifts… though I can't say it's a talent one would care to be renowned for."
 
-Emilia and Subaru exchanged gazes with each other, and then nodded to Meili. The girl, the recipient of their words, spoke as if she would push herself beyond her own utmost abilities, and hugged the panda tightly. And so, this became a single step forward towards accomplishing their journey, at which Julius folded his arms, some words spilling from him, his face one of admiration at the result he had just witnessed.
+"It's because all of you keep steadily branding me a little-girl-handler! And I'll have you know Meili isn't even as small as a little girl! She is *not* a little girl!"
 
-Julius: “I really wish that I would not utter these words, but persuading little girls really is one of your strong points… Although, I do not believe that this is not a good ability to be renowned for.”
+Subaru jabbed a finger toward the room's entrance in his exasperation at Julius's needling. And at that very moment the door swung open, and someone appeared on the other side of it.
 
-Subaru: “It’s because you guys are steadily treating me like a little girl user! I’ll have you know that Meili isn’t as small as a little girl! She’s not a little girl!”
+"—I was wondering what all the noise was, only to find it's simply Subaru kicking up a fuss again, I suppose."
 
-Subaru pointed at the room’s entrance in frustration in response to Julius’s useless words. Right as he did, however, the door was opened, and a person showed up on the other side of the door,
-
-???: “—I was wondering what was so noisy, only to find out that it was just Subaru making a racket again, I suppose.”
-
-Having finished her private talk with Roswaal, yet another little girl had joined them. Another fuss was made, but that was an incident to be put aside as something not worth bringing up, so that would be left as that.
+Her private word with Roswaal concluded, yet another little girl had come to join them. There was a fresh commotion after that—but it was a small thing, not worth the telling, and so it will be left where it lies.
