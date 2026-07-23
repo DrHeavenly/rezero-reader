@@ -35,14 +35,17 @@ export interface ArcSummary {
 }
 
 export interface SearchItem {
-  arc: number;
-  arcSlug: string;
-  slug: string;
-  kind: ChapterKind;
-  number: number;
+  /** Destination route for this result. */
+  href: string;
+  /** Small context label shown above the title, e.g. "Arc 6 · Chapter" or "IF Story". */
+  context: string;
   title: string;
   heading: string;
   kindLabel: string;
+  /** Present for arc content; enables "6-3" style numeric lookups. */
+  arc?: number;
+  number?: number;
+  kind?: ChapterKind;
 }
 
 const REPO_ROOT = process.cwd();
@@ -188,13 +191,13 @@ export function getAdjacentChapters(entry: ChapterEntry): {
 
 export function getSearchIndex(): SearchItem[] {
   return getAllChapters().map((e) => ({
-    arc: e.arc,
-    arcSlug: e.arcSlug,
-    slug: e.slug,
-    kind: e.kind,
-    number: e.number,
+    href: `/arc/${e.arcSlug}/${e.slug}`,
+    context: `Arc ${e.arc} · ${e.kindLabel}`,
     title: e.title,
     heading: e.heading,
     kindLabel: e.kindLabel,
+    arc: e.arc,
+    number: e.number,
+    kind: e.kind,
   }));
 }

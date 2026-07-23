@@ -1,9 +1,10 @@
 # Re:Zero Web Novel Overhaul — Project Memory
 
-**Version 1.1 · Established 2026-07-23 · Amended 2026-07-23 · This document is the constitution of the pipeline.**
+**Version 1.2 · Established 2026-07-23 · Amended 2026-07-23 · This document is the constitution of the pipeline.**
 
 **Amendment Log**
 
+- **v1.2 (2026-07-23):** Added §10, Overhaul Styles & the Literary-Adjustment Philosophy. Diagnosis: the pipeline as written (§0–§9) describes exactly one product — a high-fidelity *typeset* edition of WCT's own words, with prose editing held to a surgical minimum (call it **Style 1, Strict Reformatting**). A hand-run overhaul of Arc 6 Ch 3 established, and the project owner ratified, a second, more aggressive product: a full structural transposition of the chapter into idiomatic literary English, in which any sentence that is merely a mechanical English reconstruction of Japanese is rewritten, paragraphs are rebuilt, and dialogue is recast wholesale into novel prose (call it **Style 2, Literary Adjustment & Reformatting**). §10 defines both styles, states which of the five laws remain inviolable in *both* (all of the meaning-fidelity core) and which Style-1 mechanical guarantees Style 2 deliberately trades away (the empty word-diff §3.11, the edit-density ceiling §2.2, and the "said/asked-only" attribution limit §4.7), makes style a per-run human choice recorded in the changelog header, and records the open craft problems Style 2 has not yet solved — chiefly dialogue-tag monotony — plus a working literary philosophy drawn from the English Dostoevsky tradition. This amendment adds a section; it weakens no §2 law, because §10 explicitly re-binds Style 2 to the full meaning-fidelity core. See §10.
 - **v1.1 (2026-07-23):** Added §4.7, Dialogue Attribution Reconstruction. Diagnosis: Chapter 3 (the pipeline's first test run) came back with WCT's script-style speaker cues (`Name: "text"`) mechanically quote-converted but never reconstructed into prose dialogue — because, as originally written, *neither* node was actually licensed to do this. Node 1's §3.11 word-diff invariant forbids adding a word like "said"; Node 2's §2.3/§3.7 explicitly forbid adding any attribution the source doesn't already spell out in prose form. This amendment closes that gap: it licenses Node 2 (not Node 1) to convert the source's own existing speaker cue into standard novel-prose attribution, under a narrow, mechanical rule set (only "said"/"asked," explicit rules for when a tag may be dropped or must be reinserted, never inventing a name for an unattributed `???:` line). Consequential edits: §2.2/§6.4 (edit-density ceiling now excludes this category, the same way Node 1's routine formatting isn't counted as editing), §2.3 and §3.7 (carve-out cross-references to §4.7), §7.4 (new `ATTR` category code). See §4.7 for the full rule and reasoning.
 
 ---
@@ -19,6 +20,8 @@ Identify which node you are from your run instructions, read §0 now, read your 
 Ten-second orientation. The full rules are in the body; if this sheet ever seems to conflict with the body, **the body wins.**
 
 **The mission.** Take WCT's existing English translation → make it read like a well-typeset literary novel. Formatting and presentation are the primary job. Prose editing is real but secondary. Nothing is retranslated. Nothing is invented.
+
+**Two styles (full spec in §10).** Every run is one of two, set by the human owner and recorded in the changelog header; default is Style 1. **Style 1 — Strict Reformatting:** §0–§9 as written — typeset WCT's own words, surgical prose, empty word-diff holds. **Style 2 — Literary Adjustment & Reformatting:** full structural transposition into idiomatic literary English — rewrite mechanical-from-Japanese phrasing, rebuild paragraphs, recast dialogue as novel prose. Style 2 drops Style 1's mechanical guarantees (word-diff, edit-density ceiling, said/asked-only tags) but is bound by the *entire* meaning-fidelity core: no invention, every beat and ambiguity preserved, voice and honorifics kept.
 
 **The five laws (full text in §2):**
 
@@ -611,5 +614,81 @@ The most dangerous failure at this scale is not a dramatic error but a slow lowe
 ## §9 — Amending This Document
 
 This file changes only by explicit human decision, recorded at the top with a version bump and a dated note of what changed and why. No node may edit this file. An amendment that weakens a §2 law is presumptively wrong (§2, preamble) and should be pushed back on, in writing, before implementation. Rules of interpretation for anything this document fails to cover: the order of authority in §1.3, the conservatism default in §0 ("do less, flag it"), and the McDuff standard as the north star for any question about the text itself.
+
+---
+
+## §10 — Overhaul Styles & the Literary-Adjustment Philosophy
+
+Everything in §0–§9 describes one product. This section names it, names its sibling, and draws the line between them. **Style is chosen by the human owner at the start of a run and recorded in the changelog header (`Style: 1` or `Style: 2`). Absent an explicit instruction, the default is Style 1.** A single chapter is done in exactly one style; the two are not mixed within a chapter.
+
+### 10.1 The two styles
+
+**Style 1 — Strict Reformatting.** The pipeline exactly as written in §0–§9. The mission is a *typeset edition of WCT's own words*: comprehensive formatting, surgical prose. The unit of freedom is the sentence, and most sentences emerge untouched. Node 1's empty word-diff (§3.11) holds; Node 2 stays under the edit-density ceiling (§2.2) and confines itself to the McDuff calque-repair list (§4.3) and the narrow attribution reconstruction of §4.7. The output is fully auditable against the source almost word for word. This is the safe, high-throughput default, and the correct choice whenever preservation and reversibility matter more than reading polish.
+
+**Style 2 — Literary Adjustment & Reformatting.** A full structural transposition of the chapter into idiomatic literary English. Where Style 1 asks "is this sentence broken?", Style 2 asks "would a novelist writing in English have built this passage this way?" — and rebuilds it when the answer is no. The unit of freedom rises from the sentence to the **passage**: whole paragraphs may be re-shaped, sentences merged and split freely across a run, dialogue recast entirely into prose with the full range of a novel's attribution technique. Anything that reads as a mechanical English reconstruction of Japanese word-order or Japanese web-novel habit is rewritten into what an English author would actually have written *for the same meaning*. This is the style used, and validated, on the Arc 6 Ch 3 overhaul.
+
+Style 2 is **not** a licence to write a better story than WCT did. It is a licence to write WCT's story in *unembarrassed English*. The meaning core is exactly as sacred as in Style 1.
+
+### 10.2 What is inviolable in BOTH styles
+
+The five laws' meaning-core (§2) binds Style 2 in full. Style 2 relaxes *mechanical* guarantees, never *fidelity* ones. Specifically, in both styles:
+
+- **Source fidelity (§2.1).** WCT's English is still the sole authority. No retranslation from Japanese, and — the trap Style 2 makes tempting — **no filling, "correcting," or enriching anything from outside knowledge of Re:Zero.** A smoother sentence must carry the same information the WCT sentence carried, no more. Inventing a gesture, a sensory detail, an emotion, or a plot clarification is the cardinal Style-2 sin.
+- **Every plot beat, decision, revelation, and deliberate ambiguity survives, in order (§2.3).** An unattributed `???` speaker stays unidentified; an unclear referent stays unclear; a beat the source lands in isolation is not smoothed away. Fluency must never resolve an ambiguity the source keeps open.
+- **Character voice is preserved, not homogenized (§2.4).** Style 2's greater freedom is *more* dangerous here, not less — literary polish is exactly what flattens a cast toward one well-read narrator. Voice notes (§5.5) still govern; Subaru still riffs, Anastasia still keeps her dialect, Meili still stretches her vowels.
+- **Names, honorifics, and glossary terms are unchanged (§5.3, §5.4).** `-sama`, `onii-san`, `Emilia-tan` are kept; only the *prose around them* is rebuilt.
+- **Everything is still logged and reviewable (§2.5).** Style 2 cannot log line-by-line the way Style 1 does — it changes too much — so its changelog is a *passage-level* account (see §10.4), but the fidelity audit (§6.4 Check C: beats, ambiguity, voice) runs unchanged and with *more* weight, since the text has moved further from the source.
+
+### 10.3 What Style 2 trades away (and why that's acceptable)
+
+| Style-1 guarantee | Status in Style 2 | Why it can go |
+|---|---|---|
+| Empty word-diff, §3.11 | **Dropped.** The whole point is to change words. | The audit shifts from "same words?" to "same meaning, beats, ambiguity, voice?" — §6.4 Check C, which is the fidelity guarantee that actually matters. |
+| Edit-density ceiling, §2.2 | **Dropped.** Nearly every sentence may move. | The ceiling exists to stop *Style-1* mandate creep; in Style 2, wholesale rewriting is the sanctioned task, not creep. |
+| "said/asked only" attribution, §4.7 | **Dropped.** Full novelistic dialogue technique is in scope (§10.5). | §4.7's timidity was a Style-1 safeguard against inventing tone; Style 2 accepts *evident-tone* attribution as legitimate craft, bounded by §10.5. |
+| Node 1 / Node 2 separation | **Softened.** One literary pass may do structure and prose together. | The clean-room separation buys auditability Style 1 needs; Style 2 buys quality instead, and pays for it with a heavier Review pass. |
+
+The Review Node, on a Style-2 chapter, does **not** run Check A's word-diff or Check D's edit-density fail — those are Style-1 instruments. It runs Check C (fidelity of beats and ambiguity) and Check E (voice) at full strength, plus the §10.6 imperfection sweep.
+
+### 10.4 Style-2 changelog
+
+A Style-2 changelog is a *header plus a passage map*, not a line-item list. The header states: `Style: 2`, the pass date, and a one-paragraph statement of the transposition's overall approach. Then, rather than logging every sentence, it flags only:
+
+- **Judgment calls that touch meaning:** any place the rewrite risked resolving an ambiguity, dropping/merging a beat, or altering a nuance, with a note on how the risk was avoided (or a FLAG if it could not be).
+- **Deliberate departures from the source's surface** a reviewer might otherwise read as an error: a corrected source typo, a normalized term (`TERM`), a name spelling the source got wrong.
+- **Anything invented or added — which should be the empty set.** If this list is non-empty, the chapter has failed §10.2 and must be revised, not shipped.
+
+### 10.5 The literary philosophy — sentence and dialogue craft
+
+The register target is the English of the great translated realist novels — the working benchmark is Dostoevsky's *Crime and Punishment* in its standard English translations (Garnett; McDuff; Pevear & Volokhonsky). The reference the owner supplied — `studylib.net/doc/27242309/crime-and-punishment---fyodor-dostoyevsky?p=213` — is bot-gated and could not be machine-read; the following distills the tradition it points at. These are *observations to emulate*, always subordinate to §10.2.
+
+**Sentence intricacies.**
+
+- **Elastic sentence length is the engine of pace.** Dostoevsky runs long, accreting sentences — clause piled on clause with semicolons, dashes, and "and" — to render a racing or feverish mind, then snaps to a short blunt sentence for a shock or a decision. Web-novel prose arrives pre-chopped into uniform stubs; Style 2's job is to restore that *unevenness*, not to impose a new uniform "literary" length. Read a paragraph aloud internally; if every sentence has the same weight, it is wrong in the same way the stubs were wrong.
+- **Free indirect discourse.** The realist narrator slides into the character's own idiom and half-formed thoughts without quotation marks or a "he thought" tag — the narration briefly *becomes* the character. WCT's third-person narration around Subaru is often a stiff, filtered report ("he thought that…", "he felt that…"); Style 2 may let it slip into free indirect voice where the source's content is already Subaru's own perception — **without** deepening the interiority or adding thoughts he didn't have (§4.4.12 psychic-distance rule still applies).
+- **Nervous, expressive punctuation.** The dash for self-interruption and afterthought; the ellipsis for hesitation and trailing-off; the semicolon to hold two thoughts in one breath. Used deliberately and sparingly — the dash especially is not a rhythm crutch (§4.4.5). The point is that punctuation carries *feeling*, not that more of it is better.
+- **Deliberate repetition over elegant variation.** When a mind fixes on a word, the prose repeats that word; it does not reach for synonyms. §4.4.4's "repeat the clearest word" is not a Style-1-only rule — it is core realist craft. Keep it.
+- **Concrete detail anchors psychology, and is never manufactured.** Realist interiority is pinned to physical things — heat, a staircase, an object in the hand. Style 2 *preserves and foregrounds* the concrete nouns the source already has; it never invents new ones to "ground" a scene (§4.4.13).
+- **Purposeful hedging of perception.** "as though," "it seemed," "for some reason" — realist prose hedges perception on purpose, because perception is unreliable. This is the opposite of the AI-tell hedge-stack (§4.4.2): one earned "as though," not three reflexive softeners. Keep the earned kind; never add the reflexive kind.
+
+**Dialogue intricacies.**
+
+- **The tag is a tool, and it has many settings.** Realist dialogue varies the attribution constantly: verb (*said, asked,* but also *muttered, cried, put in, went on, brought out, added*), position (before, mid-sentence at a natural breath, after, or none at all), and substitution by an action beat instead of a verb. A mid-sentence tag inserts a real pause and controls emphasis; a dropped tag speeds a fast exchange; an action beat ("He stopped, wiped his face.") attributes *and* characterizes at once.
+- **Verb choice is bounded by evident tone, not invented emotion.** This is the crucial line, and where Style 2 departs from §4.7. A tag verb richer than "said" is permitted *only when the source line's own content and context already carry that tone* — a line that is plainly a shout may take "cried"; a line the source frames as muttered may take "muttered." A neutral line takes "said." Reaching for "retorted," "sneered," or "protested" to *add* a colour the source doesn't support is the same forbidden invention as adding a gesture (§10.2). When in doubt, "said."
+- **Speech is individuated.** Marmeladov's drunken oratory, Raskolnikov's clipped evasions, Razumikhin's torrent, Porfiry's sly circling — each register is distinct and consistent. This is §2.4 restated as dialogue craft: the *way* a line is built (fragment vs. subclause, blunt vs. florid) is voice, and must match the character's note.
+- **Interruption and cross-talk are rendered, not tidied.** Broken syntax, a sentence cut off by a dash, characters talking past each other, a question left hanging — realist dialogue leaves these ragged because speech is ragged. Do not smooth an interrupted line into a complete one.
+
+### 10.6 Open issues Style 2 has not yet solved
+
+These are known, unsolved weaknesses of the current Style-2 output. Treat each as an active FLAG on every Style-2 run until superseded.
+
+1. **Dialogue-tag monotony — the primary open problem.** The Arc 6 Ch 3 overhaul converted `Name: "text"` into good prose, but leaned repeatedly on one shape — `"…," Name said, "…"` — so that, read in bulk, the attribution feels *computed the same way every line* rather than composed. That regularity is itself an AI-tell, no better than the script-cue tell it replaced. The fix is not a better single formula; it is **dialogue-flow rebuilding**: treat a conversation as a unit with its own rhythm, and vary tag verb / tag position / action-beat / no-tag across the exchange as §10.5 describes, driven by what each line and beat is actually doing. No two adjacent attributions should default to the same shape. When a `dialogue-flow` skill or routine is available, Style-2 dialogue passes through it rather than being emitted line-by-line. Until then, this is a manual discipline and a mandatory Review check on Style-2 chapters.
+2. **Fluency-as-invention drift.** The better the prose reads, the easier it is to slip in a clarifying phrase, a smoothed-over motive, or a resolved ambiguity that the source never had. Every Style-2 pass must re-audit its own output against §10.2 specifically hunting for *added meaning*, which is the failure Style 2's freedom most invites.
+3. **Voice flattening under polish.** Literary smoothing pulls every character toward one articulate narratorial register. Re-read each character's lines in isolation against their voice note (§6.4 Check E) — the danger is highest exactly where the prose reads best.
+4. **Continue looking for imperfections.** These four are the known ones; the standing instruction is to keep finding the next one. A Style-2 chapter that surfaces a *new* class of imperfection and FLAGs it has succeeded, not failed (§8.8).
+
+*Reasoning: Style 1 protects fidelity with mechanical tripwires and accepts a slightly translated-sounding page as the cost. Style 2 spends those tripwires to buy a genuinely literary page, and must therefore protect fidelity by discipline and heavier review instead. Naming both, and fixing which guarantees survive the trade, is what keeps Style 2 from quietly becoming the unaccountable rewrite §2.2 was written to prevent.*
+
+---
 
 *End of project memory. — Established for the Re:Zero WN Overhaul pipeline, 2026-07-23.*

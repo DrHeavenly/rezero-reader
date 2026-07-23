@@ -8,23 +8,24 @@ function scoreItem(item: SearchItem, query: string): number {
   const q = query.trim().toLowerCase();
   if (!q) return -1;
 
-  // "6-3", "6.3", "arc 6 ch 3" style lookups by arc/number.
+  // "6-3", "6.3", "arc 6 ch 3" style lookups by arc/number (arc content only).
   const pair = q.match(/(\d+)\D+(\d+)/);
-  if (pair) {
+  if (pair && item.arc !== undefined && item.number !== undefined) {
     const [, a, n] = pair;
     if (item.arc === parseInt(a, 10) && item.number === parseInt(n, 10)) return 100;
   }
 
   const haystacks = [
-    `arc ${item.arc}`,
-    `${item.arc}`,
-    item.kind,
+    item.arc !== undefined ? `arc ${item.arc}` : "",
+    item.arc !== undefined ? `${item.arc}` : "",
+    item.kind ?? "",
     item.kindLabel.toLowerCase(),
-    `chapter ${item.number}`,
-    `interlude ${item.number}`,
+    item.number !== undefined ? `chapter ${item.number}` : "",
+    item.number !== undefined ? `interlude ${item.number}` : "",
+    item.context.toLowerCase(),
     item.title.toLowerCase(),
     item.heading.toLowerCase(),
-  ];
+  ].filter(Boolean);
 
   for (const haystack of haystacks) {
     if (haystack === q) return 90;
@@ -57,7 +58,7 @@ export default function SearchBox({ index }: { index: SearchItem[] }) {
     setQuery("");
     setOpen(false);
     inputRef.current?.blur();
-    router.push(`/arc/${item.arcSlug}/${item.slug}`);
+    router.push(item.href);
   }
 
   return (
@@ -93,7 +94,7 @@ export default function SearchBox({ index }: { index: SearchItem[] }) {
       {open && results.length > 0 && (
         <ul className="absolute right-0 z-30 mt-1 max-h-80 w-80 overflow-y-auto rounded-md border border-white/15 bg-[#1c1b1a] shadow-2xl">
           {results.map((item, i) => (
-            <li key={`${item.arcSlug}-${item.slug}`}>
+            <li key={item.href}>
               <button
                 type="button"
                 onMouseDown={(e) => e.preventDefault()}
@@ -104,7 +105,7 @@ export default function SearchBox({ index }: { index: SearchItem[] }) {
                 }`}
               >
                 <div className="text-xs uppercase tracking-wide text-stone-500">
-                  Arc {item.arc} · {item.kindLabel}
+                  {item.context}
                 </div>
                 <div className="truncate">{item.title}</div>
               </button>
