@@ -1,0 +1,379 @@
+# My Book
+
+## Chapter One
+
+――A painful red drop of blood drips down his right arm with the black spots pattern.
+
+Call it fortune or whatever you want but his wound had stopped bleeding faster than expected, but still, if he applies force to it, his wound will open again, but he didn’t care about that too much.
+
+Dig your nails in, and you’ll feel pain. Do it hard, and you’ll tear the skin, and blood will flow. Even though it felt like the blood from that wound had stopped quickly, it really didn’t feel that different.
+
+Subaru:「――――」
+
+Without paying much attention to the fresh, self inflicted wound on his right arm, he proceeds to wipe the blood from his palm and then pulls down his sleeve to conceal the hideous message carved on his left arm.
+
+Subaru:「In any case, I need to hurry……」
+
+Already he had wasted quite a lot of time in this room. Meili’s corpse was still lying in the middle of the room, but at least there no longer was any trace of what he had done to her.
+
+If he could he would have liked to avoid defiling her corpse even more but….
+—There is still one last thing he must do.
+
+Subaru:「――――」
+
+Using both of his arms, Subaru drags the girl’s light body to a corner of the room.
+
+There, he finds what could be called a table made of stone, or maybe it might have been beddings. For now, he gently hid Meili’s dead body behind where the hewed square stone slab was placed.
+
+――Sorry, though apologizing to Meili from the bottom of his heart, Subaru concealed her fate.
+
+After all, how would he explain that it wasn’t him to everyone and that the culprit is『Natsuki Subaru』 and even if he could, who would believe such a thing?
+
+Subaru:「I can’t defend myself or do anything, even if I wasn’t the one who… killed Meili. The murder was carried out with my own hands.」
+
+He’s not aware about how criminal investigations are handled in this world. but if someone were to see Meili’s nails and the wounds on Subaru’s wrists, no one would doubt that he was guilty and trying to appeal would be futile.
+
+If it ever comes to that, the only thing he can do is try to avoid the trial—No, he already covered up the crime.
+
+He was aware that the course of actions he took isn’t the right one. However, he had no other option. ――He no longer knew who he could trust, who could he doubt.
+
+However if there is a single thing that he is convinced of, it’s–
+
+Subaru:「Next time we meet, Meili… you will be the only one I won’t suspect.」
+
+Crushed, then strangled. This is the second time Subaru finds Meili already dead.
+
+Aside from a few others, she was the least suspicious. But it doesn’t matter anymore, Subaru won’t be able to get any kind of information from her.
+
+The Closed Circle Mystery, in other words, it is known that the criminal is one of the people present, and the crime could not have been committed by some outsider, what a cliché….
+
+However, as a detective, Natsuki Subaru is equipped with an illegal power:『Return by Death』which causes time to be rewound whenever he is killed. Anyone, no matter how useless, could become a renowned detective capable of dealing with any tragedy with this power.
+
+Subaru:「Though the Detective being the culprit is also something predictable of these mystery tropes. 」
+
+It’s regrettable, no matter how great 『Return by Death』might be, probably『Natsuki Subaru』is just waiting to make his next move, even if the situation gets redone many times, stopping Him may prove a very difficult task.
+
+The detective having a different personality in which he is a criminal, is a pretty tired mystery trope. But you would think that in real life if the detective just threw himself off a cliff the problem would be solved right?
+
+『Return by Death』and 『The detective himself is the culprit』, when both of these met the situation became unsolvable. A so called, inescapable helix maze.
+
+「This isn’t the time to be talking…….! In any case, right now I gotta buy time.」
+
+It’s not a problem that will be solved with time, there’s definitely something that brings back time.
+Believing in that, Subaru wished to be freed from this dead end, and then stood up.
+
+「――――」
+
+Leaving those circumstances aside, He caressed Meili’s forehead just one last time. Surely, she wouldn’t want him to touch her anymore.
+
+Her forehead felt cold to the touch, as if she was rejecting Subaru.
+
+※　※　※　※　※　※　※　※　※　※　※　※　※
+
+And, after despairingly concealing Meili’s murder, Subaru leaves the room. Then, looking at the right and left of the aisle, as he left the site slowly――、
+
+???:「――Ah, Subaru! Thank god, so you were here.」
+
+Subaru:「――tch！？」
+
+It was Emilia’s sudden voice that made Subaru’s shoulder shiver, as he turned back to look at her. She was just taking a stroll, and she tilts her head to Subaru whose cheeks had turned rigid,
+
+Emilia:「Sorry, did I scare you?」
+
+Subaru:「――I-I was surprised, that’s, we~ll, that’s, you know. It’s just because it was so sudden. What happened, Emilia-chan?」
+
+Emilia:「――？　I was just walking around the tower, to see whether I could do something. Rather than that, Subaru.」
+
+Subaru:「Yeah？」
+
+Emilia:「Just now, were you playing around again？」
+
+Subaru inhales sharply at hearing Emilia’s mysterious question.
+
+Her amethyst eyes were staring right at Subaru, but Subaru didn’t know the meaning of her question.
+
+It was true that his voice was shaking, but what he said was supposed to be an incomplete answer that would still suffice.
+
+「――――」
+
+Well, rather than Emilia’s gleeful eyes, Subaru tasted a sense of uncomfortableness, and gulped down his bitter spit.
+
+In the room behind them lies Meili’s dead body, cold and lifeless. Although he made sure to keep it out of plain sight, were someone to search through the room, her body would be discovered within minutes.
+
+So, leaving this place was his top priority.
+
+Subaru:「Sorry, I need to go the washroom for a second.」
+
+Emilia:「Ah, sure.」
+
+Hurriedly leaving the room, Subaru left words that could easily be misunderstood. He must get away from Emilia as soon as possible and kill time as much as he can.
+From there, he could take care of the wound on his right arm――、
+
+Subaru:「Eh, Emilia-chan? I am going to the washroom. Why are you coming with me？」
+
+Emilia:「Eh? I mean, we all will get together for lunch anyway, so don’t you think it would be nice if we’re together for a while? Don’t worry, I’ll be outside the door.」
+
+Subaru:「I’m not worried about you hearing the sound of peeing but……」
+
+Emilia stands in front of Subaru, who wanted to part ways with her, and looks at his face.
+
+Speaking of justice is just an argument, and the side which deserves justice always goes through pain. In this case, it was no exception, Subaru had said all that without even once thinking of justice.
+However, concerning that other side which had been struggling,, Subaru carefully hazards a guess towards Emilia’s feelings.
+
+――For what purpose does Emilia want to accompany Subaru?
+
+「――――」
+
+「――？」
+
+Still, Emilia looked completely plain to Subaru who was looking at her from the corner of his eyes.
+
+She doesn’t look like she has any plan in mind, but, in fact, she is one of the enemies he suspects.
+
+Subaru did not see Emilia’s and Beatrice’s dead bodies the last time when everyone had been killed.
+
+Although it was true that “Natsuki Subaru’s” intentions were unknown from the wounds on his arms, no matter how much chaos “Natsuki Subaru” could cause, it was not possible to produce such a situation alone.
+
+Killing Shaula, Echidna, Ram, Julius and Meili, and eventually tearing down the tower with the power of shadows, and finally beheading him, that someone.
+
+There still existed someone in this tower who Subaru was not aware of.
+
+Emilia:「Subaru, are you okay? Actually, you still aren’t back to normal, are you?」
+
+Subaru:「――tch, I-I’m fine. I just got lost in my thoughts for a bit.」
+
+Emilia:「Really？ But, you don’t look too well.」
+
+Suddenly, Emilia reaches out for Subaru.
+He couldn’t give up so quickly, but Emilia makes his cheeks redden in embarrassment, and Subaru senses a ticklish feeling in his eyebrows.
+
+Subaru:「……You’re looking quite closely now, aren’t you.」
+
+Emilia:「Mhm, that’s right, I am looking closely. It feels like lately, I’ve been following you around with my eyes a lot…… I don’t know why, but it’s strange.」
+
+Subaru:「――I guess so, it’s really strange, isn’t it.」
+
+He was carefully keeping an eye on any sudden movements from Emilia..
+
+The smiling Emilia’s hand was touching Subaru’s face. The situation would drastically change if Emilia’s hand were to slit Subaru’s throat in the blink of an eye, no guarantees she wouldn’t. Or otherwise, she didn’t even need to do that, with the strength of Emilia’s arm, it would be easily possible for her to break Subaru’s neckbones.
+
+However, her hands did not feel malicious or hostile, and Subaru is at loss on what to think.
+
+After all, Subaru — he was only a Japanese student who had come from a convenience store, so it was only natural that Subaru would not find these feelings reliable. Things like people’s hostility or malice, he had almost no experience with these things.
+
+Subaru’s familiarity with the atmosphere, of making people awkward even from big distances and silence of apathetic indifference that could not even be called cold disdain — neither of these can hurt the loner Natsuki Subaru.
+
+Henceforth, he does not know the feeling he was getting from the girl’s amethyst eyes in front of him was genuine or fake.
+
+But, if he doesn’t know――、
+
+「――――」
+
+He wonders what kind of face she would make if he were to confess everything. How great would it feel if he were to screw up that beautiful face she had that made it seem like she grew up only ever seeing splendid things, as if there was nothing to worry about in the world?
+
+―― The Natsuki Subaru you are worried about is nowhere to be found.
+
+―― No, that’s not it. If he were to say that he is a cruel, crazed murderer.1
+
+Emilia:「――come to think of it, Meili… you know」
+
+Subaru:「――hk」
+
+A strangled noise emerged from his throat as his eyes opened wide.
+
+Why was Meili’s name mentioned here? He couldn’t in the slightest hide his exclamation of surprise, it had been a complete surprise attack. If it was Emilia’s aim to gauge Subaru’s reaction, he had fallen hook line and sinker for it.
+
+However, Emilia had her eyes off of Subaru, her gaze had dropped down towards the floor. She wasn’t looking towards the aisleway where he had come from, more so, it felt as if she was just looking around the whole tower. And following from that, Emilia showed a slight hint of hesitation, and said,
+
+Emilia:「I wonder if I was too short-tempered with her. When we return back safe and sound from this tower, we can see what we can do about Meili.」
+
+「――――」
+
+Emilia:「Of course what she did a year ago was terrible, and I understand Otto-kun’s point that we shouldn’t believe her so easily, but… it was thanks to Meili that we were able to cross the sand dunes, and if she had been plotting something against us, I think she would have done it before we reached this tower.」
+
+Pinching the cuffs of her clothes, Emilia carefully states her thoughts. Although it feels as if he should take her story with a grain of salt. Amongst the people in this tower, Meili’s position was special. She had apparently originally been an assassin hired to take Emilia and Beatrice’s lives.
+
+She had failed her duty, leading to her being their captive. However, she had made full use of her special ability, which she had been born with, accompanying them on their current journey, thus contributing to the objectives of her former targets.
+
+Subaru:「A Pardon, I guess?」
+
+Emilia:「Even if I were to let her free, I think everyone would oppose it. But, maybe we can find some other place to put her in outside of her gloomy prison cell, right?」
+
+「――――」
+
+Emilia:「Of course, we’ll talk to Meili herself, and see if she wants it. It would be hard if I got ahead of myself and ended up being hated by her.」
+
+Hurriedly shaking her hand, Emilia insisted that it had just been one of her opinions. Perhaps, she had put enough thought to hold and convey this story out to its fullness. At every turn, there’s a glimpse of the argument being rebutted.
+
+――Were these Emilia’s true intentions?
+
+「――――」
+
+Would it be okay to believe her? At least until now, there hadn’t been a single time which Emilia had been hostile towards Subaru. ――No, if he were to say it, no one had shown any hostility towards Subaru. Beatrice, Echidna, Ram, Julius, Meili, none of them had shown any hostility towards Subaru.
+
+The only certain things were that a criminal had killed Subaru by pushing him from the top of the staircase, and that a criminal had slaughtered everyone in the tower, and a criminal had lopped off his head. ―― And that “Natsuki Subaru” had killed Meili. Only these evil acts should be held in contempt.
+
+Then, could he trust Emilia? Could he believe in her purity, which was like that of fresh snow, that did not know of impurity? ――Emilia had put so much enthusiasm in her speech whilst he had been fretting about Meili, which his hand had killed, still he wonders if she would believe him.
+
+Subaru:「……so stupid.」
+
+Emilia:「Eh?」
+
+Subaru:「I said such bullshit. I should have known. Short-tempered? Indeed. In… in these situations, can we really be talking about future prospects.」
+
+It feels like a stalemate in all directions, he has no room to worry about anyone else. And that especially applies to hearing the future plans of the girl who had already died. Even if he closes his eyes pretending not to know about her “Death”, would it really comfort him?
+
+「――――」
+
+Cursing, Subaru bit his lips right after he had uttered those words. He had said such stupid things. He couldn’t help having said things such as all the remarks of suspicion that he had thrust upon Emilia due to the emotions of this place. There was no justification for his actions. He had just been venting his anger, just like a child’s tantrum. That――
+
+Emilia:「Subaru!」
+
+Subaru:「Bu…」
+
+Emilia:「What happened to you so suddenly? Even if you’re in a bad mood, it’s no good to speak like that!」
+
+「――――」
+
+Astonished and shocked, he hangs his head down as his emotions gnaw at him and tears start to pour out of him as he sobs. Emilia however, having anticipated such a reaction, vigorously clasped Subaru’s cheeks with both hands and looked straight into his black eyes.
+
+Subaru:「――Ah」
+
+Emilia:「If you are going to be sulky and emotional like this, speak up! Either to me or Beatrice. If Subaru is in trouble, I will be in trouble together with him. But, don’t carry it all by yourself, quit moping around by yourself, stop trying to do be alone. That’s something similar to what Roswaal would do in bad times. Don’t copy him!」
+
+Giving it her all, Emilia turns towards Subaru and continues to speak. And just after that, she took her hands away from Subaru’s face, who had been really taken aback, and suddenly pulled his head over to her chest. She held Subaru’s head against her chest in an embrace and started to gently stroke him.
+
+Emilia:「Do you understand? In my heart, I am not mad at you at all. I won’t be disillusioned with whatever it is. So, you can tell me.」
+
+「――――」
+
+He was pressed against the feeling of soft, warm skin. Beyond that feeling of warmth, the rhythm of life was steadily ticking away in her. It was quite gentle, rather like a lullaby which a baby would listen to. Subaru let out a strangled sob. In that moment, Subaru’s heart had lurched with a feeling of intense shame.
+
+Having done all these things until now, having said such terrible things, still she was gentle towards him. He had doubted her, he had blindly hated this poor girl, what had been the point of it all?
+
+――Do they really exist? The one who had been planning to kill Subaru.
+
+――Had plunging to his death really been a simple accident?
+
+――It had not been something somebody did on purpose, maybe someone had inadvertently tripped and pushed him.
+
+There was no evil person inside this tower. The only one who had a heart that was foul, ugly and dangerous was Natsuki Subaru, and “Natsuki Subaru”. Properly speaking, wasn’t he just an insolent outsider to this world that should have never been?
+
+Subaru:「Emilia, I am……」
+
+Emilia:「――Hm?」
+
+Subaru:「I am……」
+
+He doesn’t know how to tell her. He had thought that he would be able to confess everything to her… Losing his memories, what had happened to Meili, returning back in time every time he died. Everything he says may not be believable. But, she may believe some of it. If she believes him, a way to break out of this deadlock may be found. If just that is found, Subaru will――
+
+???:「――Emilia-sama！　Barusu！」
+
+That was the moment when he had tried to somehow squeeze his thoughts out of his shivering head.
+
+A sharp,imminent voice comes from the side, as if filling over Subaru’s anguish. Subaru could not see the owner of the voice at that moment due to Emilia’s embrace. Then, he heard Emilia who confirmed that person’s identity by murmuring「Ram」.
+
+Emilia:「What’s wrong? I’m talking to Subaru about something which is ve~ry important…..」
+
+Ram:「That is, something Ram understands just by looking at it…… but kindly stop it. This is an urgent matter.」
+
+Emilia:「O-okay…..」
+
+The sound of footsteps drew closer, and as soon as they did, Emilia nervously let go of Subaru. Subaru aggressively wiped away at this face with his sleeve, getting rid of the distant feeling of warmth and the zeal in the corner of his eyes.
+
+After that, both he and Emilia turned to face Ram.
+
+Whether it was the thing she saw which was bad, or whether her timing was the worst, he wanted to strike Ram with such feelings that were coming up in his mind.
+
+Even though he just reflected on it, he felt sorry for himself for not being able to stand straight again immediately.
+
+However, Ram’s appearance said that she could not afford to do things like teasing them for them embracing one another, or thinking about Subaru who was having mixed emotions, after seeing them.
+
+Emilia:「Ram, what’s wrong？」
+
+Ram:「……It is an urgent matter. Please come to the third floor library immediately. Beatrice-sama found something terrible.」
+
+Emilia:「Beatrice did？」
+
+To the surprised Emilia, Ram briefly nodded as「yes」.
+
+Then, as she turned away from Subaru and Emilia,
+
+Ram:「Anastasia-sama…… no, was it Echidna? Anyway, Ram will go search for her and Julius. Barusu, you go with Emilia-sama」
+
+Subaru:「Y-yeah, got it…」
+
+Subaru nodded his head whilst being unable to form a reply..
+
+Without even waiting for an answer, Ram kicks the door and runs away from the two. Surprised from the situation, Subaru turns to Emilia.
+
+Subaru:「Um, Ram, said that……」
+
+Emilia:「――-Let’s hurry. Ram sounded really serious. Something terrible must have happened.」
+
+「――――」
+
+Emilia:「Subaru, I won’t forget about what we talked earlier.」
+
+Subaru:「……yeah.」
+
+Subaru weakly nodded and listens to Emilia, who was the only one thinking about that.
+
+Already, from his guilt towards Meili, to his sense of urgency regarding the situation, all of Subaru’s thought process had been torn down.
+
+With that, Subaru took off with Emilia, heading for the third layer『Taygeta』at a brisk pace. Welcoming them after running up the long staircase, was the library of the『Dead』which boasted a huge collection of books.
+
+Beatrice:「――So you’ve come, I suppose.」
+
+Beatrice, who was standing in front of of the stairs behind the bookshelves which had the countless『Books of The Dead』fitted in them, welcomed Subaru.
+
+The girl, with her short arms, and a peculiar pattern in her eyes, breathed out a tired sigh with a frown.
+
+Emilia:「Beatrice, Ram told us to come. You have found something terrible is what she said.」
+
+Beatrice:「Certainly, it cannot he said that it’s good news. Rather, it is something bad I suppose.」
+
+Saying that, Beatrice swings roundly around to Emilia’s question.
+
+Then, she turns her blue eyes towards Subaru,
+
+Beatrice:「Betty had been looking into the『Taygeta』library since this morning. Whilst Subaru was out cold, Betty was trying to analyse this room, though it’s mechanisms are nothing like the forbidden library’s I suppose.」
+
+Subaru:「Well, regardless of the introduction. What happened? Please tell.」
+
+Subaru, who ran up the stairs and was lightly panting, urges her to get to the point.
+
+Hearing those words, Beatrice shut her eyes for a moment. And, she slowly, pointed towards one of the bookshelves which was diagonally behind her,
+
+「The third row from the top, the book on the far right.」
+
+「――the rightmost of」
+
+「一The third row.」
+
+In accordance with what Beatrice pointed out, Subaru and Emilia came to the bookshelf after she had spat out those words.
+
+The bookshelf was packed with books, and Subaru could not read the characters which were written in a foreign language on the black covers. As usual, he could only think of them as hieroglyphs.
+
+So, even the title of the book which Beatrice pointed out to Subaru and the others, was not known to him.
+
+At least, as all books were in this library, it was certain that it was a『Book of The Dead』–,
+
+Emilia:「No way……」
+
+Emilia, who had been standing right next to him, spilled these words out.. Looking at that, Subaru’s cheeks stiffened at hearing her stunned reaction.
+
+Such astonishment had delayed the sadness which was to come straight after.. Just, what was it that had punched her heart with such force?
+Shivering, her lips tremble right next to Subaru, clearly in shock.
+
+and Emilia said,
+
+Emilia:「――Meili・Portroute」
+
+※※　※　※　※　※　※　※　※　※　※　※　※
+
+[1] He here uses “あいつ” which is a distant way of referring to something “this guy” would have been the usual way of translating but since he’s sorta speaking about his old self I opted for a simple “he” instead.}
+
+※※　※　※　※　※　※　※　※　※　※　※　※
+
+### Scene One

@@ -26,3 +26,8 @@ next-env.d.ts
 
 # vercel
 .vercel
+
+# session / editor cruft
+.claude/
+__pycache__/
+*.pyc
