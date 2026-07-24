@@ -2,8 +2,6 @@
 
 ## Chapter One
 
-1
-
 —In complete silence, Subaru’s shoulders trembled, the tiny scorpion that had emerged from beneath the dust in his hands.
 
 He’d wanted to save her. He’d wanted to take her out of this lonely sand tower. He’d promised to help her, but now he couldn’t keep his promise. Natsuki Subaru always made promises he couldn’t keep.
@@ -1344,7 +1342,6 @@ The sound that spun from her lips, tied together with significance, pierced into
 
 “───”
 
-R2 Image
 Subaru knelt down, gazing at Rem’s expression, holding his breath. Then, painfully exhaling the accumulated breath in his lungs, he pounded on his chest. Harder and harder, twice, thrice, talking to himself.
 
 He should have expected this possibility. The possibility that Rem might not remember him when she woke up, he had considered it. It was only natural to think of that if he took Gluttony’s Authority into account. There was a high possibility of her waking up without her Name or Memories.
@@ -1374,5 +1371,37 @@ Saying this, for the sake of the girl he’d made an oath to, Natsuki Subaru onc
 —Once again, here, and now, he vowed. To start a story with her, from zero.
 
 END
+
+Links
+
+Home
+
+Series
+
+Calendar
+
+Database
+
+Downloads
+
+Information
+
+Affiliates
+
+Witch Cult Translations
+
+Re:Zero Wiki
+
+© Eminent Translations 2026
+
+Home
+
+Series
+
+Calendar
+
+Database
+
+Downloads
 
 ### Scene One

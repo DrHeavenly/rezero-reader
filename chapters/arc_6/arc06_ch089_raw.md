@@ -2,12 +2,6 @@
 
 ## Chapter One
 
-Ragged, ragged, scattering away.
-
-Crumbling, crumbling, flaking away.
-
-Tired, tired, fading away.
-
 Ragged, crumbling, and tired, everything in the distance was shimmering.
 
 1
@@ -181,8 +175,6 @@ Crumbling, crumbling, flaking away.
 Tired, tired, fading away.
 
 Ragged, crumbling, and tired, everything in the distance was shimmering.
-
- 
 
 The fierce light of a rainbow flashed in front of her eyes, and, following her instincts, she swung her arms to get rid of it.
 
@@ -394,8 +386,6 @@ Even though she was left behind, even though her memories faded somewhat, they s
 
 Because they were so precious to her, she desperately tried to preserve them.
 
- 
-
 “───”
 
 “Master, do you still remember? You told meee, ‘I’ll definitely return, so wait here for me’, and then you disappearedddd.”
@@ -508,8 +498,6 @@ Ragged, crumbling, and tired, everything in the distance was shimmering.
 
 Ragged, crumbling, and tired, everything shimmered in the distance.
 
- 
-
 “—Shaula.”
 
 A part of her shell fell off, crumbling and flaking away, and turned into dust. It didn’t stop there, but spread elsewhere, her whole body peeling off and turning into dust.
@@ -594,8 +582,6 @@ Ragged, crumbling, and tired, everything shimmered in the distance.
 
 —Everything shimmered, because you were there.
 
- 
-
 “A mere 400 years…is almost like the day after tomorowww.”
 
 “Because I also loved waiting for you.”
@@ -612,7 +598,6 @@ Ragged, crumbling, and tired, everything shimmered in the distance.
 
 “—I love youuu, Master.”
 
-R2 Image
 7
 
 “You’re an…idiot.”
@@ -626,5 +611,37 @@ As if it were a little embarrassed, the tiny scorpion trembled, accepting his ac
 Its shell was a bright shade of red, so vivid that it seemed like it could burn one’s eyes—oh so red.
 
 —That was something that not even the span of 400 years could fade, the color of Love.
+
+Links
+
+Home
+
+Series
+
+Calendar
+
+Database
+
+Downloads
+
+Information
+
+Affiliates
+
+Witch Cult Translations
+
+Re:Zero Wiki
+
+© Eminent Translations 2026
+
+Home
+
+Series
+
+Calendar
+
+Database
+
+Downloads
 
 ### Scene One
