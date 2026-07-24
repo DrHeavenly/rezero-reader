@@ -18,17 +18,17 @@ Subaru let the words slip out toward the faces across from him, imagining the sw
 
 Four glances came at him—and adding Subaru to the rest made five passengers riding in the one carriage. That was the shape of the thing.
 
-“Strange? Did something happen?”
+“Strange? Did something happen?” Emilia asked.
 
 “No, nothing worth mentioning, Emilia-tan. It’s just—welll, it just struck me as pretty unexpected, all these faces sharing the same dragon carriage and getting along this well.” Subaru waved the question off as he said it.
 
 To his right and left, covering both his flanks, sat Emilia and Beatrice. They were his own people, and that the two of them would be at his side went without saying. The real question was the pair up front.
 
-“Well, it’s only natural ya’d feel like that. Truth is, I thought it was real surprisin’ myself. So it makes sense Natsuki-kun’d feel a bit outta place, hm.”
+It was Anastasia who answered—a high, clear laugh coming first, the words trailing after it in her fake Kansai, or rather Kararagi, dialect. “Well, it’s only natural ya’d feel like that. Truth is, I thought it was real surprisin’ myself. So it makes sense Natsuki-kun’d feel a bit outta place, hm.”
 
-“…Ah. That is so.”
+“…Ah. That is so,” Julius said.
 
-The one who let out the high, clear laugh and spoke in a fake Kansai—or rather, Kararagi—dialect was Anastasia. Her reply delivered, she looked at him with a meaning-laden gaze, toying with a lock of her hair.
+Her reply delivered, Anastasia looked at Subaru with a meaning-laden gaze, toying with a lock of her hair.
 
 “Though if it’s bein’ outta place we’re talkin’ about, I’m not so sure ya can beat Julius-san here.”
 
